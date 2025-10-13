@@ -1,3901 +1,3908 @@
 [
   {
-    "id": 1,
-    "category": "",
+    "id": "mastertv",
+    "category": "VARIEDADES",
     "name": "MASTER TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QMT5h950/MASTER-TV.png",
     "streamUrl": "https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 2,
-    "category": "",
+    "id": "caras",
+    "category": "VARIEDADES",
     "name": "CARAS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MGFphvz6/CARAS-TV.jpg",
     "streamUrl": "https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8"
   },
   {
-    "id": 3,
-    "category": "",
+    "id": "telesafor",
+    "category": "VARIEDADES",
     "name": "TELE SAFOR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hjh4R1cz/TELESAFOR-TV.jpg",
     "streamUrl": "https://video.telesafor.com/hls/video.m3u8"
   },
   {
-    "id": 4,
-    "category": "",
+    "id": "8mediterraneo",
+    "category": "VARIEDADES",
     "name": "8 MEDITERRANEO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/s2FwRRqd/8-MEDITERRANEO.png",
     "streamUrl": "https://streaming004.gestec-video.com/hls/8TV.m3u8"
   },
   {
-    "id": 5,
-    "category": "",
+    "id": "rosario",
+    "category": "VARIEDADES",
     "name": "CANAL 8 ROSARIO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QxcZpSCk/CANAL-8-ROSARIO.jpg",
     "streamUrl": "https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8"
   },
   {
-    "id": 6,
-    "category": "",
+    "id": "cincotv",
+    "category": "VARIEDADES",
     "name": "CINCO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/dtm3DCPK/CINCO-TV.jpg",
     "streamUrl": "https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8"
   },
   {
-    "id": 7,
-    "category": "",
+    "id": "venusmedia",
+    "category": "VARIEDADES",
     "name": "VENUS MEDIA PARAGUAY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9FRJTxmW/VENUS-MEDIA.jpg",
     "streamUrl": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
   },
   {
-    "id": 8,
-    "category": "",
+    "id": "educatv",
+    "category": "VARIEDADES",
     "name": "EDUCA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qB6yMCcs/EDUCA-TV.jpg",
     "streamUrl": "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
   },
   {
-    "id": 9,
-    "category": "",
+    "id": "clarotv",
+    "category": "VARIEDADES",
     "name": "CLARO VISION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Yqtpm56W/CLARO-VISION-TV.jpg",
     "streamUrl": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
   },
   {
-    "id": 10,
-    "category": "",
+    "id": "caritastv",
+    "category": "VARIEDADES",
     "name": "CARITAS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/2yJyTkvY/CARITAS-TV.png",
     "streamUrl": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
   },
   {
-    "id": 11,
-    "category": "",
+    "id": "caribetv",
+    "category": "VARIEDADES",
     "name": "CARIBE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/WbFhzZL1/CARIBE-TV.jpg",
     "streamUrl": "https://giatv.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8"
   },
   {
-    "id": 12,
-    "category": "",
+    "id": "telesistema",
+    "category": "VARIEDADES",
     "name": "TELESISTEMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nhNKMxw6/TELESISTEMA.jpg",
     "streamUrl": "https://k20.usastreams.com:8081/telesistema/index.m3u8"
   },
   {
-    "id": 13,
-    "category": "",
+    "id": "anime",
+    "category": "VARIEDADES",
     "name": "CIUDAD MAGICA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Pf97qGwx/CIUDAD-MAGICA-TV.png",
     "streamUrl": "https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8"
   },
   {
-    "id": 14,
-    "category": "",
+    "id": "7televalencia",
+    "category": "VARIEDADES",
     "name": "7 TELEVALECIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nrfrP1BM/TELEVALENCIA.png",
     "streamUrl": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
   },
   {
-    "id": 15,
-    "category": "",
+    "id": "wtvnicaragua",
+    "category": "VARIEDADES",
     "name": "WTV NICARAGUA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3JBNtmRJ/WTV-NICARAGUA.jpg",
     "streamUrl": "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
   },
   {
-    "id": 16,
-    "category": "",
+    "id": "la1",
+    "category": "VARIEDADES",
     "name": "LA 1",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4Ngghm5f/LA-1.gif",
     "streamUrl": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
   },
   {
-    "id": 17,
-    "category": "",
+    "id": "la2",
+    "category": "VARIEDADES",
     "name": "LA 2",
-    "logo": "",
+    "logo": "https://i.postimg.cc/287fdrc4/LA-2.jpg",
     "streamUrl": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
   },
   {
-    "id": 18,
-    "category": "",
+    "id": "torotv",
+    "category": "VARIEDADES",
     "name": "EL TORO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8zkgt99x/EL-TORO-TV.png",
     "streamUrl": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
   },
   {
-    "id": 19,
-    "category": "",
+    "id": "fuerteventura",
+    "category": "VARIEDADES",
     "name": "FUERTEVENTURA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mgdfqVGk/FUERTEVENTURA-TV.jpg",
     "streamUrl": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8"
   },
   {
-    "id": 20,
-    "category": "",
+    "id": "latinaperu",
+    "category": "VARIEDADES",
     "name": "LATINA PERU CLASICOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/43mkTtJ5/LATINA-PERU-CLASICOS.jpg",
     "streamUrl": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
   },
   {
-    "id": 21,
-    "category": "",
+    "id": "latinaperu",
+    "category": "VARIEDADES",
     "name": "LATINA PERU",
-    "logo": "",
+    "logo": "https://i.postimg.cc/jqzVKRrG/LATINA-TV.jpg",
     "streamUrl": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
   },
   {
-    "id": 22,
-    "category": "",
+    "id": "rtvida",
+    "category": "VARIEDADES",
     "name": "RTV VIDA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/XvGZRPxr/RTV-VIDA.jpg",
     "streamUrl": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
   },
   {
-    "id": 23,
-    "category": "",
+    "id": "canal11",
+    "category": "VARIEDADES",
     "name": "CANAL 11-MEXICO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MH4NFvGM/CANAL-11-MEXICO.jpg",
     "streamUrl": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8"
   },
   {
-    "id": 24,
-    "category": "",
+    "id": "cetelmontv",
+    "category": "VARIEDADES",
     "name": "CETELMON TV ESPAÑA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/y8P4V6Q5/CETELMON-TV-ESPA-A.jpg",
     "streamUrl": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8"
   },
   {
-    "id": 25,
-    "category": "",
+    "id": "distritotv",
+    "category": "VARIEDADES",
     "name": "DISTRITO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/jqhkPYbX/DISTRITO-TV.png",
     "streamUrl": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
   },
   {
-    "id": 26,
-    "category": "",
+    "id": "canal4",
+    "category": "VARIEDADES",
     "name": "CANAL 4 TELEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RZwtJ4rC/CANAL-4-TELEVISION.png",
     "streamUrl": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8"
   },
   {
-    "id": 27,
-    "category": "",
+    "id": "cantabria",
+    "category": "VARIEDADES",
     "name": "POPULAR TV CANTABRIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/0NW7PZR7/CANTABRIA-TV.png",
     "streamUrl": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8"
   },
   {
-    "id": 28,
-    "category": "",
+    "id": "telemadrid",
+    "category": "VARIEDADES",
     "name": "TELEMADRID INTERNACIONAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NjycdjGY/TELEMADRID-INTERNACIONAL.png",
     "streamUrl": "https://new-international-23-secure2.akamaized.net/index.m3u8"
   },
   {
-    "id": 29,
-    "category": "",
+    "id": "universfaller",
+    "category": "VARIEDADES",
     "name": "UNIVERS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zv1QFqtz/UNIVERS-TV.png",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
   },
   {
-    "id": 30,
-    "category": "",
+    "id": "estrellamedia",
+    "category": "VARIEDADES",
     "name": "ESTRELLA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/76DPtJZd/ESTRELLA-TV.png",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8"
   },
   {
-    "id": 31,
-    "category": "",
+    "id": "estrellamedia",
+    "category": "VARIEDADES",
     "name": "ESTRELLA GAMES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/k4n9vrjd/ESTRELLA-GAMES.jpg",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8"
   },
   {
-    "id": 32,
-    "category": "",
+    "id": "lancelot",
+    "category": "VARIEDADES",
     "name": "LANCELOT TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zGn9ttHD/LANCELOT-TV.jpg",
     "streamUrl": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
   },
   {
-    "id": 33,
-    "category": "",
+    "id": "telemas",
+    "category": "VARIEDADES",
     "name": "TELEMÁS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/xd9yXxY5/TELEMAS.jpg",
     "streamUrl": "https://viewhn.com/telemas/live/playlist.m3u8"
   },
   {
-    "id": 34,
-    "category": "",
+    "id": "canal12",
+    "category": "VARIEDADES",
     "name": "CANAL 12",
-    "logo": "",
+    "logo": "https://i.postimg.cc/tCQ465Vw/CANAL-12.jpg",
     "streamUrl": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8"
   },
   {
-    "id": 35,
-    "category": "",
+    "id": "larioja",
+    "category": "VARIEDADES",
     "name": "CANAL 13 LA RIOJA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nrxNFCCR/CANAL-13-LA-RIOJA.png",
     "streamUrl": "http://arcast.net:1935/mp/mp/playlist.m3u8"
   },
   {
-    "id": 36,
-    "category": "",
+    "id": "canal21",
+    "category": "VARIEDADES",
     "name": "CANAL 21 TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ncz0v4bK/CANAL-21-TV.jpg",
     "streamUrl": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
   },
   {
-    "id": 37,
-    "category": "",
+    "id": "caucete",
+    "category": "VARIEDADES",
     "name": "CANAL 40 CAUCETE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/15qNhXph/CANAL-40-CAUCETE.jpg",
     "streamUrl": "https://canalsj.kozow.com/canal40/index.m3u8"
   },
   {
-    "id": 38,
-    "category": "",
+    "id": "canal56",
+    "category": "VARIEDADES",
     "name": "CANAL 56",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bY2Q8mhB/CANAL-56.jpg",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8"
   },
   {
-    "id": 39,
-    "category": "",
+    "id": "cbnespañol",
+    "category": "VARIEDADES",
     "name": "CBN ESPAÑOL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L5R4c4RR/CBN-ESPA-OL.jpg",
     "streamUrl": "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8"
   },
   {
-    "id": 40,
-    "category": "",
+    "id": "critovision",
+    "category": "VARIEDADES",
     "name": "CRISTO VISION CANAL 31",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5yHpMJm7/CRISTO-VISION-CANAL-31.jpg",
     "streamUrl": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
   },
   {
-    "id": 41,
-    "category": "",
+    "id": "jbn",
+    "category": "VARIEDADES",
     "name": "JBN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/dVQbzky4/JBN.jpg",
     "streamUrl": "https://mediacp.us:8081/jbntv/index.m3u8"
   },
   {
-    "id": 42,
-    "category": "",
+    "id": "jehovatv",
+    "category": "VARIEDADES",
     "name": "JEHOVA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9QSLJrt4/JEHOVA-TV.png",
     "streamUrl": "https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8"
   },
   {
-    "id": 43,
-    "category": "",
+    "id": "rselva",
+    "category": "VARIEDADES",
     "name": "RSELVA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9Q4pRc5c/RSELVA-TV.png",
     "streamUrl": "https://live.obslivestream.com/selvatv/index.m3u8"
   },
   {
-    "id": 44,
-    "category": "",
+    "id": "amasguate",
+    "category": "VARIEDADES",
     "name": "A+ GUATE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3RL4FDmV/A-GUATE.jpg",
     "streamUrl": "https://ch2-tva.duin.dev/hls/stream.m3u8"
   },
   {
-    "id": 45,
-    "category": "",
+    "id": "ellider",
+    "category": "VARIEDADES",
     "name": "CANAL 5 EL LIDER",
-    "logo": "",
+    "logo": "https://i.postimg.cc/t4hsmcFh/CANAL-5-EL-LIDER.jpg",
     "streamUrl": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8"
   },
   {
-    "id": 46,
-    "category": "",
+    "id": "azteca",
+    "category": "VARIEDADES",
     "name": "AZTECA INTERNACIONAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qvJWYdxd/AZTECA-INTERNACIONAL.jpg",
     "streamUrl": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
   },
   {
-    "id": 47,
-    "category": "",
+    "id": "cuatrohd",
+    "category": "VARIEDADES",
     "name": "CUATRO HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L5z6dSG7/CUATRO-HD.png",
     "streamUrl": "http://185.189.225.150:85/CuatroHD/index.m3u8"
   },
   {
-    "id": 48,
-    "category": "",
+    "id": "mega",
+    "category": "VARIEDADES",
     "name": "MEGA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RVBZ73Hz/MEGA.png",
     "streamUrl": "http://185.189.225.150:85/mega/index.m3u8"
   },
   {
-    "id": 49,
-    "category": "",
+    "id": "vidas",
+    "category": "VARIEDADES",
     "name": "RESTAURANDO VIDAS INTERNACIONAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/635BCr2b/RESTAURANDO-VIDAS-INTERNACIONAL.jpg",
     "streamUrl": "https://v4.tustreaming.cl/restaurandovida/index.m3u8"
   },
   {
-    "id": 50,
-    "category": "",
+    "id": "logostv",
+    "category": "VARIEDADES",
     "name": "LOGOS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RV6xJryx/LOGOS-TV.jpg",
     "streamUrl": "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
   },
   {
-    "id": 51,
-    "category": "",
+    "id": "limontv",
+    "category": "VARIEDADES",
     "name": "LIMON TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NMy9v6Qs/LIMON-TV.jpg",
     "streamUrl": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
   },
   {
-    "id": 52,
-    "category": "",
+    "id": "sarapiquitv",
+    "category": "VARIEDADES",
     "name": "SARAPIQUI TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wj61j89b/SARAPIQUI-TV.jpg",
     "streamUrl": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8"
   },
   {
-    "id": 53,
-    "category": "",
+    "id": "canal3",
+    "category": "VARIEDADES",
     "name": "CANAL 3 IMPRESIONANTE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/HLz1knmJ/CANAL-3-IMPRESIONANTE.png",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8"
   },
   {
-    "id": 54,
-    "category": "",
+    "id": "kandelatv",
+    "category": "VARIEDADES",
     "name": "KANDELA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/265RbYj0/KANDELA-TV.jpg",
     "streamUrl": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
   },
   {
-    "id": 55,
-    "category": "",
+    "id": "infinitatv",
+    "category": "VARIEDADES",
     "name": "INFINITA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/HsRtVt0w/INFINITA-TV.jpg",
     "streamUrl": "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
   },
   {
-    "id": 56,
-    "category": "",
+    "id": "elcaminotv",
+    "category": "VARIEDADES",
     "name": "EL CAMINO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rySpW5b2/EL-CAMINO-TV.jpg",
     "streamUrl": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
   },
   {
-    "id": 57,
-    "category": "",
+    "id": "ecuadortv",
+    "category": "VARIEDADES",
     "name": "ECUADOR TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/xdhdG5nn/ECUADOR-TV.png",
     "streamUrl": "https://samson.streamerr.co:8081/shogun/index.m3u8"
   },
   {
-    "id": 58,
-    "category": "",
+    "id": "clantv",
+    "category": "VARIEDADES",
     "name": "CLAN TVE INTERNACIONAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mrsRWt7S/CLAN-TVE-INTERNACIONAL.png",
     "streamUrl": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
   },
   {
-    "id": 59,
-    "category": "",
+    "id": "marcatv",
+    "category": "VARIEDADES",
     "name": "MARCA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/DZM5RRHm/MARCA-TV.png",
     "streamUrl": "https://eu1.servers10.com:8081/8030/index.m3u8"
   },
   {
-    "id": 60,
-    "category": "",
+    "id": "girovisualtv",
+    "category": "VARIEDADES",
     "name": "GIROVISUAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nz96sxKL/GIROVISUAL-TV.jpg",
     "streamUrl": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
   },
   {
-    "id": 61,
-    "category": "",
+    "id": "alcancetv",
+    "category": "VARIEDADES",
     "name": "ALCANCE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/V65zD2qy/ALCANCE-TV.png",
     "streamUrl": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
   },
   {
-    "id": 62,
-    "category": "",
+    "id": "conectatv",
+    "category": "VARIEDADES",
     "name": "CONECTA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T3wGRZsK/CONECTA-TV.png",
     "streamUrl": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
   },
   {
-    "id": 63,
-    "category": "",
+    "id": "tvdeleste",
+    "category": "VARIEDADES",
     "name": "TELEVISION DEL ESTE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/7Lqf35TW/TELEVISION-DEL-ESTE.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8"
   },
   {
-    "id": 64,
-    "category": "",
+    "id": "teletur",
+    "category": "VARIEDADES",
     "name": "TELETUR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YjcSh0H8/TELETUR.jpg",
     "streamUrl": "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8"
   },
   {
-    "id": 65,
-    "category": "",
+    "id": "curiquinguetv",
+    "category": "VARIEDADES",
     "name": "CURIQUINGUE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pL3cv81D/CURIQUINGUE-TV.jpg",
     "streamUrl": "https://video2.lhdserver.es/pjtv/live.m3u8"
   },
   {
-    "id": 66,
-    "category": "",
+    "id": "dmjcuzco",
+    "category": "VARIEDADES",
     "name": "DMJ CUZCO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nrdTPQD9/DMJ-CUZCO.png",
     "streamUrl": "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
   },
   {
-    "id": 67,
-    "category": "",
+    "id": "eltrece",
+    "category": "VARIEDADES",
     "name": "EL TRECE(1080)",
-    "logo": "",
+    "logo": "https://i.postimg.cc/26kQNSmQ/EL-TRECE-TV.jpg",
     "streamUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
   },
   {
-    "id": 68,
-    "category": "",
+    "id": "elroi",
+    "category": "VARIEDADES",
     "name": "EL-ROI TV HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/26kQNSmQ/EL-TRECE-TV.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8"
   },
   {
-    "id": 69,
-    "category": "",
+    "id": "galaxiatv",
+    "category": "VARIEDADES",
     "name": "GALAXIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mZcwLhCj/GALAXIA-TV.jpg",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
   },
   {
-    "id": 70,
-    "category": "",
+    "id": "girasoltv",
+    "category": "VARIEDADES",
     "name": "GIRASOL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Hx8ygcR7/GIRASOL-TV.jpg",
     "streamUrl": "https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8"
   },
   {
-    "id": 71,
-    "category": "",
+    "id": "unitv",
+    "category": "VARIEDADES",
     "name": "UNI tv",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MpYD8XHd/UNI-tv.jpg",
     "streamUrl": "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
   },
   {
-    "id": 72,
-    "category": "",
+    "id": "universtv",
+    "category": "VARIEDADES",
     "name": "UNIVERS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MGPmv4yB/UNIVERS-TV.jpg",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
   },
   {
-    "id": 73,
-    "category": "",
+    "id": "codigotv",
+    "category": "VARIEDADES",
     "name": "CODIGO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/85vDpfb0/CODIGO-TV.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8"
   },
   {
-    "id": 74,
-    "category": "",
+    "id": "3abnlatino",
+    "category": "VARIEDADES",
     "name": "3ABN LATINO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KjZXWZ2g/3-ABN-LATINO.png",
     "streamUrl": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
   },
   {
-    "id": 75,
-    "category": "",
+    "id": "americatv",
+    "category": "VARIEDADES",
     "name": "AMERICA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rsQ6XvVZ/AMERICA-TV.png",
     "streamUrl": "https://live.gideo.video/americateve2/master.m3u8"
   },
   {
-    "id": 76,
-    "category": "",
+    "id": "colosaltv",
+    "category": "VARIEDADES",
     "name": "COLOSAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kg20z1kw/COLOSAL-TV.jpg",
     "streamUrl": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8"
   },
   {
-    "id": 77,
-    "category": "",
+    "id": "CubavisionInternacional.cu",
+    "category": "VARIEDADES",
+    "name": "Cubavisión Internacional (720p)",
+    "logo": "https://i.imgur.com/0ZHm9f6.png",
+    "streamUrl": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8"
+  },
+  {
+    "id": "atvmas",
+    "category": "VARIEDADES",
     "name": "ATV MAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/x8nSMmz2/ATV-MAS.jpg",
     "streamUrl": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
   },
   {
-    "id": 78,
-    "category": "",
+    "id": "13max",
+    "category": "VARIEDADES",
     "name": "13 MAX TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KjH1MD4y/13-MAX-TV.jpg",
     "streamUrl": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8"
   },
   {
-    "id": 79,
-    "category": "",
+    "id": "realities",
+    "category": "VARIEDADES",
     "name": "13 REALITIES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/cJSrwH16/13-REALITIES.jpg",
     "streamUrl": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
   },
   {
-    "id": 80,
-    "category": "",
+    "id": "tma",
+    "category": "VARIEDADES",
     "name": "TMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Kzx5QQST/TMA-TV.jpg",
     "streamUrl": "http://hls.tmacaraibes.com/live/index.m3u8"
   },
   {
-    "id": 81,
-    "category": "",
+    "id": "clearcable",
+    "category": "VARIEDADES",
     "name": "CABLE 14 HAMILTON",
-    "logo": "",
+    "logo": "https://i.postimg.cc/v8SW6GBf/CABLE-14-HAMILTON.png",
     "streamUrl": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720"
   },
   {
-    "id": 82,
-    "category": "",
+    "id": "canal10durangr",
+    "category": "VARIEDADES",
     "name": "CANAL 10 DURANGO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QCBKqWt5/CANAL-10-DURANGO.jpg",
     "streamUrl": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
   },
   {
-    "id": 83,
-    "category": "",
+    "id": "aysentv",
+    "category": "VARIEDADES",
     "name": "AYSEN TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MTLvXKDG/AYSEN-TV.png",
     "streamUrl": "https://v1.tustreaming.cl/aysentv/index.m3u8"
   },
   {
-    "id": 84,
-    "category": "",
+    "id": "retrochannel",
+    "category": "VARIEDADES",
     "name": "THE RETRO CHANNEL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8zyFxH6W/THE-RETRO-CHANNEL.jpg",
     "streamUrl": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8"
   },
   {
-    "id": 85,
-    "category": "",
+    "id": "70y80tv",
+    "category": "VARIEDADES",
     "name": "70 Y 80 TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/DfqS7FG7/70-Y-80-TV.jpg",
     "streamUrl": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
   },
   {
-    "id": 86,
-    "category": "",
+    "id": "pularitv",
+    "category": "VARIEDADES",
     "name": "PULARI TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/VNrjRTV5/PULARI-TV.jpg",
     "streamUrl": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8"
   },
   {
-    "id": 87,
-    "category": "",
+    "id": "estutele",
+    "category": "VARIEDADES",
     "name": "ES TU TELE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zD0FqnKz/ES-TU-TELE.jpg",
     "streamUrl": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8"
   },
   {
-    "id": 88,
-    "category": "",
+    "id": "kmradio",
+    "category": "VARIEDADES",
     "name": "KM RADIO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wBvBfh84/KM-RADIO-TV.jpg",
     "streamUrl": "https://cloudvideo.servers10.com:8081/8120/index.m3u8"
   },
   {
-    "id": 89,
-    "category": "",
+    "id": "unetv",
+    "category": "VARIEDADES",
     "name": "UNE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QCLxdwBv/UNE-TV.png",
     "streamUrl": "https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8"
   },
   {
-    "id": 90,
-    "category": "",
+    "id": "voiceover",
+    "category": "VARIEDADES",
     "name": "VOICE OVER",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MZRpF6Nw/VOICE-OVER.jpg",
     "streamUrl": "https://tvservices.fullhd-streaming.com:3941/multi_web/play_720.m3u8"
   },
   {
-    "id": 91,
-    "category": "",
+    "id": "dreiko",
+    "category": "VARIEDADES",
     "name": "DREIKO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vZ72mNBk/DREIKO-TV.png",
     "streamUrl": "https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8"
   },
   {
-    "id": 92,
-    "category": "",
+    "id": "zacatecas",
+    "category": "VARIEDADES",
     "name": "CANAL 24 ZACATECAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sgydKSZF/CANAL-24-ZACATECAS.png",
     "streamUrl": "https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8"
   },
   {
-    "id": 93,
-    "category": "",
+    "id": "jujuy",
+    "category": "VARIEDADES",
     "name": "CANAL 7 JUJUY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vZ8pzrdB/CANAL-7-JUJUY.jpg",
     "streamUrl": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
   },
   {
-    "id": 94,
-    "category": "",
+    "id": "canal7",
+    "category": "VARIEDADES",
     "name": "CANAL 7 SALTA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/TPFFfB5L/CANAL-7-SALTA.jpg",
     "streamUrl": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
   },
   {
-    "id": 95,
-    "category": "",
+    "id": "neuquen",
+    "category": "VARIEDADES",
     "name": "CANAL 7 NEUQUEN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SR7vLsTC/CANAL-7-NEUQUEN.png",
     "streamUrl": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
   },
   {
-    "id": 96,
-    "category": "",
+    "id": "pucontv",
+    "category": "VARIEDADES",
     "name": "PUCON TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rsJf0Hs9/PUCON-TV.jpg",
     "streamUrl": "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
   },
   {
-    "id": 97,
-    "category": "",
+    "id": "televida",
+    "category": "VARIEDADES",
     "name": "TELEVIDA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fRFB9mz1/TELEVIDA.jpg",
     "streamUrl": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
   },
   {
-    "id": 98,
-    "category": "",
+    "id": "forovision",
+    "category": "VARIEDADES",
     "name": "FOROVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Th8kztfX/FOROVISION.png",
     "streamUrl": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
   },
   {
-    "id": 99,
-    "category": "",
+    "id": "oasistv",
+    "category": "VARIEDADES",
     "name": "OASIS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/G3sn5NxV/OASIS-TV.png",
     "streamUrl": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
   },
   {
-    "id": 100,
-    "category": "",
+    "id": "puringlatv",
+    "category": "VARIEDADES",
     "name": "PURINGLA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kMcMYwX7/PURINGLA-TV.jpg",
     "streamUrl": "https://stmv1.srvif.com/puringla/puringla/playlist.m3u8"
   },
   {
-    "id": 101,
-    "category": "",
+    "id": "salvaciontv",
+    "category": "VARIEDADES",
     "name": "SALVACION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/PJrHksrT/SALVACION-TV.png",
     "streamUrl": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
   },
   {
-    "id": 102,
-    "category": "",
+    "id": "cpetv",
+    "category": "VARIEDADES",
     "name": "CPE TV HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wB3jWbt6/CPE-TV-HD.jpg",
     "streamUrl": "https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8"
   },
   {
-    "id": 103,
-    "category": "",
+    "id": "ngfederal",
+    "category": "VARIEDADES",
     "name": "NG FEDERAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qR3MrhXS/NG-FEDERAL.jpg",
     "streamUrl": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8"
   },
   {
-    "id": 104,
-    "category": "",
+    "id": "fmtv",
+    "category": "VARIEDADES",
     "name": "FRECUENCIA MUSICAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/V6qhnkS1/FRECUENCIA-MUSICAL.png",
     "streamUrl": "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
   },
   {
-    "id": 105,
-    "category": "",
+    "id": "neoxtv",
+    "category": "VARIEDADES",
     "name": "NEOX TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zfmqt4XF/NEOX-TV1.jpg",
     "streamUrl": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8"
   },
   {
-    "id": 106,
-    "category": "",
+    "id": "thematv",
+    "category": "VARIEDADES",
     "name": "THEMA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/7LTnDJ4y/THEMA-TV.png",
     "streamUrl": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8"
   },
   {
-    "id": 107,
-    "category": "",
+    "id": "vclassistv",
+    "category": "VARIEDADES",
     "name": "V CLASSIC TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/GmH8c8Y6/V-CLASSIC-TV.jpg",
     "streamUrl": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
   },
   {
-    "id": 108,
-    "category": "",
+    "id": "videotvlobo",
+    "category": "VARIEDADES",
     "name": "LOBO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gkc4HsFR/LOBO-TV.jpg",
     "streamUrl": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8"
   },
   {
-    "id": 109,
-    "category": "",
+    "id": "net.tv",
+    "category": "VARIEDADES",
     "name": "NET.TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T13mgkL3/NET-TV.png",
     "streamUrl": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
   },
   {
-    "id": 110,
-    "category": "",
+    "id": "playtv",
+    "category": "VARIEDADES",
     "name": "PLAY TELEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CKpqmMBt/PLAY-MEDIOS-TV.jpg",
     "streamUrl": "https://vivo.solumedia.com:19360/playtv/playtv.m3u8"
   },
   {
-    "id": 111,
-    "category": "",
+    "id": "canal100",
+    "category": "VARIEDADES",
     "name": "CANAL 100 TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/28LWkVPq/Canal-100-Chinique.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8"
   },
   {
-    "id": 112,
-    "category": "",
+    "id": "somostv",
+    "category": "VARIEDADES",
     "name": "SOMOS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nLB3vgdF/SOMOS-TV.png",
     "streamUrl": "https://vcp3.myplaytv.com/somostv/somostv/chunklist_w2076538066.m3u8?WebM3UCL"
   },
   {
-    "id": 113,
-    "category": "",
+    "id": "aguacatetv",
+    "category": "VARIEDADES",
     "name": "AGUACATE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/G3qqJkjy/AGUACATE-TV.jpg",
     "streamUrl": "https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?WebM3UCL"
   },
   {
-    "id": 114,
-    "category": "",
+    "id": "millenium",
+    "category": "VARIEDADES",
     "name": "MILLENIUM",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CKQBXkxv/MILLENIUM.png",
     "streamUrl": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
   },
   {
-    "id": 115,
-    "category": "",
+    "id": "kanadetv",
+    "category": "VARIEDADES",
     "name": "KANADE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/DZcHYLZG/KANADE-TV.jpg",
     "streamUrl": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8"
   },
   {
-    "id": 116,
-    "category": "",
+    "id": "telemundo",
+    "category": "VARIEDADES",
     "name": "TELEMUNDO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QCXVDYfc/TELEMUNDO.png",
     "streamUrl": "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8"
   },
   {
-    "id": 117,
-    "category": "",
+    "id": "videomexiquense",
+    "category": "VARIEDADES",
     "name": "MEXIQUENSE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pVZpCxdC/MEXIQUENSE-TV.jpg",
     "streamUrl": "https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8"
   },
   {
-    "id": 118,
-    "category": "",
+    "id": "rcgtv",
+    "category": "VARIEDADES",
     "name": "RCG TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/J7cw6pyz/RCG-TV.jpg",
     "streamUrl": "https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1513808412.m3u8"
   },
   {
-    "id": 119,
-    "category": "",
+    "id": "martitv",
+    "category": "VARIEDADES",
     "name": "MARTI TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/6pqDQwM8/MARTI-TV.png",
     "streamUrl": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8"
   },
   {
-    "id": 120,
-    "category": "",
+    "id": "promartv",
+    "category": "VARIEDADES",
     "name": "PROMAR TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/K8WCkVWJ/PROMAR-TV.jpg",
     "streamUrl": "https://vcp.myplaytv.com/promar/promar/chunklist_w1618523790.m3u8"
   },
   {
-    "id": 121,
-    "category": "",
+    "id": "aztecatv",
+    "category": "VARIEDADES",
     "name": "TV AZTECA GUATE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gJV7702T/AZTECA-GUATE.png",
     "streamUrl": "https://ch1-tva.duin.dev/hls/0/stream.m3u8"
   },
   {
-    "id": 122,
-    "category": "",
+    "id": "aztecatv",
+    "category": "VARIEDADES",
     "name": "CANAL 7-GUATE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NFQnvwyf/CANAL-7-GUATE.png",
     "streamUrl": "https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8"
   },
   {
-    "id": 123,
-    "category": "",
+    "id": "canal3guate",
+    "category": "VARIEDADES",
     "name": "CANAL 3-GUATE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qqQ5kZnc/CANAL-3-GUATE.jpg",
     "streamUrl": "https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8"
   },
   {
-    "id": 124,
-    "category": "",
+    "id": "tvgalicia",
+    "category": "VARIEDADES",
     "name": "TVG GALICIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/cC5Bkqwz/TVG-GALICIA.jpg",
     "streamUrl": "https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8"
   },
   {
-    "id": 125,
-    "category": "",
+    "id": "cocina",
+    "category": "VARIEDADES",
     "name": "ANDALUCIA COCINA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pXw6P856/ANDALUCIA-COCINA.jpg",
     "streamUrl": "https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8"
   },
   {
-    "id": 126,
-    "category": "",
+    "id": "oromartv",
+    "category": "VARIEDADES",
     "name": "OROMAR TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/528ky0wN/OROMAR-TV.jpg",
     "streamUrl": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
   },
   {
-    "id": 127,
-    "category": "",
+    "id": "ewtn",
+    "category": "VARIEDADES",
     "name": "EWTN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fbK27r2G/EWTN.png",
     "streamUrl": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
   },
   {
-    "id": 128,
-    "category": "",
+    "id": "ecuavisa",
+    "category": "VARIEDADES",
     "name": "ECUAVISA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RFpgynzG/ECUAVISA.png",
     "streamUrl": "https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks.m3u8?dpssid=b13113886570096671ecc8aa354&ndvc=0&sid=ba5t1l1xb214038105906671ecca6c45f"
   },
   {
-    "id": 129,
-    "category": "",
+    "id": "once3digital",
+    "category": "VARIEDADES",
     "name": "ONCE.3-DIGITAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FskhPyQW/ONCE-3-DIGITAL.png",
     "streamUrl": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8"
   },
   {
-    "id": 130,
-    "category": "",
+    "id": "atvsur",
+    "category": "VARIEDADES",
     "name": "ATV SUR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NjhBZKsg/ATV-SUR.jpg",
     "streamUrl": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
   },
   {
-    "id": 131,
-    "category": "",
+    "id": "cielotv",
+    "category": "VARIEDADES",
     "name": "CIELO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4dfbLs2J/CIELO-TV.jpg",
     "streamUrl": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
   },
   {
-    "id": 132,
-    "category": "",
+    "id": "qhubotv",
+    "category": "VARIEDADES",
     "name": "QHUBO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8cFv95RV/Q-HUBO-TV.png",
     "streamUrl": "https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8"
   },
   {
-    "id": 133,
-    "category": "",
+    "id": "tvcosmos",
+    "category": "VARIEDADES",
     "name": "TV COSMOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rzXDH9yS/TV-COSMOS.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
   },
   {
-    "id": 134,
-    "category": "",
+    "id": "nuevomundotv",
+    "category": "VARIEDADES",
     "name": "NUEVO MUNDO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CLk7xP8p/NUEVO-MUNDO-TV.jpg",
     "streamUrl": "https://tvlatina.live:1936/8008/8008/playlist.m3u8"
   },
   {
-    "id": 135,
-    "category": "",
+    "id": "telemundopr",
+    "category": "VARIEDADES",
     "name": "TELEMUNDO P.R",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YS9QYbv9/TELEMUNDO-P-R.png",
     "streamUrl": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8"
   },
   {
-    "id": 136,
-    "category": "",
+    "id": "popstar",
+    "category": "VARIEDADES",
     "name": "POPSTAR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3RQJYwQT/POPSTAR.jpg",
     "streamUrl": "https://linear-10.frequency.stream/dist/popstar/10/hls/master/playlist_1280x720.m3u8"
   },
   {
-    "id": 137,
-    "category": "",
+    "id": "hispantv",
+    "category": "VARIEDADES",
     "name": "HISPANTV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/63hwKLhr/HISPANTV.jpg",
     "streamUrl": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8"
   },
   {
-    "id": 138,
-    "category": "",
+    "id": "soltv",
+    "category": "VARIEDADES",
     "name": "SOL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/28GwWq00/SOL-TV.jpg",
     "streamUrl": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
   },
   {
-    "id": 139,
-    "category": "",
+    "id": "wowtv",
+    "category": "VARIEDADES",
     "name": "WOW TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/tC4r2tZK/WOW-TV.jpg",
     "streamUrl": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?"
   },
   {
-    "id": 140,
-    "category": "",
+    "id": "tvflorencia",
+    "category": "VARIEDADES",
     "name": "TV FLORENCIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sX3P1s5k/TV-FLORENCIA.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8"
   },
   {
-    "id": 141,
-    "category": "",
+    "id": "jutiapatv",
+    "category": "VARIEDADES",
     "name": "JUTIAPA VISION-CANAL 9",
-    "logo": "",
+    "logo": "https://i.postimg.cc/brW20h2N/JUTIAPA-VISION-CANAL-9.png",
     "streamUrl": "https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8"
   },
   {
-    "id": 142,
-    "category": "",
+    "id": "multivision",
+    "category": "VARIEDADES",
     "name": "MULTIVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/C5G7kFwG/MULTIVISION.png",
     "streamUrl": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8"
   },
   {
-    "id": 143,
-    "category": "",
+    "id": "astronet",
+    "category": "VARIEDADES",
     "name": "ASTRO NET",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pXkYHcrL/ASTRO-NET.jpg",
     "streamUrl": "https://stmv6.voxtvhd.com.br/astronet/astronet/playlist.m3u8"
   },
   {
-    "id": 144,
-    "category": "",
+    "id": "vconline",
+    "category": "VARIEDADES",
     "name": "VC ONLINE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bJHSRd2w/VC-ONLINE.png",
     "streamUrl": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
   },
   {
-    "id": 145,
-    "category": "",
+    "id": "graciatv",
+    "category": "VARIEDADES",
     "name": "GRACIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L4DZYYpy/GRACIA-TV.png",
     "streamUrl": "https://v4.tustreaming.cl/graciatv/index.m3u8"
   },
   {
-    "id": 146,
-    "category": "",
+    "id": "cocinandotv",
+    "category": "VARIEDADES",
     "name": "COCINANDO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/76QMbNWG/COCINANDO-TV.png",
     "streamUrl": "https://sistemastr.tropicalmoonmedia.com/live/D68FF3D942FDBED1303B0567B5C75E3D/7.m3u8?WebM3UCL"
   },
   {
-    "id": 147,
-    "category": "",
+    "id": "tvytv",
+    "category": "VARIEDADES",
     "name": "TV Y TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kMByCg4J/TV-Y-TV.jpg",
     "streamUrl": "https://cloudpro.servidoresdestream.com:8081/8014/tracks-v1a1/mono.m3u8?WebM3UCL"
   },
   {
-    "id": 148,
-    "category": "",
+    "id": "milenial",
+    "category": "VARIEDADES",
     "name": "MILENIAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fLMpcVG5/MILENIAL.jpg",
     "streamUrl": "https://www.milenial.news/salida/milenial.m3u8"
   },
   {
-    "id": 149,
-    "category": "",
+    "id": "impactotv",
+    "category": "VARIEDADES",
     "name": "IMPACTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zfrcNLG5/IMPACTO-TV.png",
     "streamUrl": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
   },
   {
-    "id": 150,
-    "category": "",
+    "id": "hondadigitaltv",
+    "category": "VARIEDADES",
     "name": "HONDA DIGITAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mD0ddhq0/HONDA-DIGITAL-TV.jpg",
     "streamUrl": "https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 151,
-    "category": "",
+    "id": "mieltv",
+    "category": "VARIEDADES",
     "name": "MIEL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/2S64Zr9v/MIEL-TV.jpg",
     "streamUrl": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
   },
   {
-    "id": 152,
-    "category": "",
+    "id": "tributv",
+    "category": "VARIEDADES",
     "name": "TRIVU TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/GpS8nDbS/TRIVU-TV.png",
     "streamUrl": "https://www.chasquirouter.com/salida/sd/trivu.m3u8"
   },
   {
-    "id": 153,
-    "category": "",
+    "id": "tvdatta",
+    "category": "VARIEDADES",
     "name": "TV TENDENCIAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/y8JCK0f2/TV-TENDENCIAS.png",
     "streamUrl": "https://s1.tvdatta.com:3950/multi_web/play.m3u8"
   },
   {
-    "id": 154,
-    "category": "",
+    "id": "regiontvlive",
+    "category": "VARIEDADES",
     "name": "REGION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/XYTSYXmq/REGION-TV.jpg",
     "streamUrl": "https://servilive.com:3757/live/regiontvlive.m3u8"
   },
   {
-    "id": 155,
-    "category": "",
+    "id": "rivereñatv",
+    "category": "VARIEDADES",
     "name": "RIVEREÑA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YCFD8RD2/RIVERE-A-TV.png",
     "streamUrl": "https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 156,
-    "category": "",
+    "id": "supercanal",
+    "category": "VARIEDADES",
     "name": "SUPER CANAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zfCgdH1R/SUPER-CANAL.png",
     "streamUrl": "https://live.obslivestream.com/supercanal/index.m3u8"
   },
   {
-    "id": 157,
-    "category": "",
+    "id": "tvcosmos",
+    "category": "VARIEDADES",
     "name": "TV COSMOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rzXDH9yS/TV-COSMOS.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8"
   },
   {
-    "id": 158,
-    "category": "",
+    "id": "uraniotv",
+    "category": "VARIEDADES",
     "name": "URANIO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/43X4zszX/URANIO-TV.png",
     "streamUrl": "https://live.obslivestream.com/uraniotv/index.m3u8"
   },
   {
-    "id": 159,
-    "category": "",
+    "id": "visionsur",
+    "category": "VARIEDADES",
     "name": "VISION SUR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/y6DRJy1v/VISION-SUR.jpg",
     "streamUrl": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
   },
   {
-    "id": 160,
-    "category": "",
+    "id": "tvpe",
+    "category": "VARIEDADES",
     "name": "TVPE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kgMFQMbc/TVPE-PERU.jpg",
     "streamUrl": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
   },
   {
-    "id": 161,
-    "category": "",
+    "id": "tvpeint",
+    "category": "VARIEDADES",
     "name": "TVPE INTERNACIONAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FRSjr7M9/TVPE-INTERNACIONAL.png",
     "streamUrl": "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
   },
   {
-    "id": 162,
-    "category": "",
+    "id": "asiritv",
+    "category": "VARIEDADES",
     "name": "ASIRI TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZK4rmYVS/ASIRI-TV.jpg",
     "streamUrl": "https://video2.lhdserver.es/asiritv/live.m3u8"
   },
   {
-    "id": 163,
-    "category": "",
+    "id": "cableperu",
+    "category": "VARIEDADES",
     "name": "CABLE PERU",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fRbm3HGq/CABLE-PERU.png",
     "streamUrl": "https://video2.lhdserver.es/cableperu/live.m3u8"
   },
   {
-    "id": 164,
-    "category": "",
+    "id": "canalipe",
+    "category": "VARIEDADES",
     "name": "CANAL IPE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CxN027d0/CANAL-IPE.jpg",
     "streamUrl": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
   },
   {
-    "id": 165,
-    "category": "",
+    "id": "asunsion",
+    "category": "VARIEDADES",
     "name": "TV BELLA ASUNCION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CLCpZ7G8/TV-BELLA-ASUNCION.png",
     "streamUrl": "https://s4.tvdatta.com:3764/stream/play.m3u8"
   },
   {
-    "id": 166,
-    "category": "",
+    "id": "cultura24tv",
+    "category": "VARIEDADES",
     "name": "CULTURA24 TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5t0hRMZ5/CULTURA24-TV.png",
     "streamUrl": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
   },
   {
-    "id": 167,
-    "category": "",
+    "id": "canal8",
+    "category": "VARIEDADES",
     "name": "CANAL 8-CATACAOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/J4MdFLXy/CANAL-8-CATACAOS.png",
     "streamUrl": "https://live.obslivestream.com/canal8/index.m3u8"
   },
   {
-    "id": 168,
-    "category": "",
+    "id": "enlacetv",
+    "category": "VARIEDADES",
     "name": "ENLACE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SQ7gCvPm/ENLACE-TV.jpg",
     "streamUrl": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8"
   },
   {
-    "id": 169,
-    "category": "",
+    "id": "controversiatv",
+    "category": "VARIEDADES",
     "name": "CONTROVERSIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T3hQ8Y3P/CONTROVERSIA-TV.jpg",
     "streamUrl": "https://live.obslivestream.com/controversiatv/index.m3u8"
   },
   {
-    "id": 170,
-    "category": "",
+    "id": "hechiceratv",
+    "category": "VARIEDADES",
     "name": "HECHICERA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/jdJdMmpJ/HECHICERA-TV.png",
     "streamUrl": "https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8"
   },
   {
-    "id": 171,
-    "category": "",
+    "id": "novastartv",
+    "category": "VARIEDADES",
     "name": "NOVA STAR TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3NGN0q7p/NOVA-STAR-TV.jpg",
     "streamUrl": "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8"
   },
   {
-    "id": 172,
-    "category": "",
+    "id": "novastartv",
+    "category": "VARIEDADES",
     "name": "AUTENTICA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3NGN0q7p/NOVA-STAR-TV.jpg",
     "streamUrl": "https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 173,
-    "category": "",
+    "id": "crtv",
+    "category": "VARIEDADES",
     "name": "CRTV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/59mKz27P/CRTV.jpg",
     "streamUrl": "https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 174,
-    "category": "",
+    "id": "planetatv",
+    "category": "VARIEDADES",
     "name": "PLANETA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4y81Snjs/PLANEA-TV.jpg",
     "streamUrl": "https://live.obslivestream.com/planetatv/index.m3u8"
   },
   {
-    "id": 175,
-    "category": "",
+    "id": "telecolorhd",
+    "category": "VARIEDADES",
     "name": "TELECOLOR HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wxbJnK7q/TELECOLOR-HD.jpg",
     "streamUrl": "https://live.obslivestream.com/telecolormux/index.m3u8"
   },
   {
-    "id": 176,
-    "category": "",
+    "id": "tarapototv",
+    "category": "VARIEDADES",
     "name": "TARAPOTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FHbYrwsJ/TARAPOTO-TV.jpg",
     "streamUrl": "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8"
   },
   {
-    "id": 177,
-    "category": "",
+    "id": "viaaltomayo",
+    "category": "VARIEDADES",
     "name": "VIA ALTO MAYO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/d0qLLnLN/VIA-ALTO-MAYO.png",
     "streamUrl": "https://live.obslivestream.com/viaaltomayomux/index.m3u8"
   },
   {
-    "id": 178,
-    "category": "",
+    "id": "viatv",
+    "category": "VARIEDADES",
     "name": "VIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sftPvdyn/VIA-TV.jpg",
     "streamUrl": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
   },
   {
-    "id": 179,
-    "category": "",
+    "id": "history",
+    "category": "VARIEDADES",
     "name": "PLUTO TV HISTORIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wvDFm6hB/PLUTO-TV-HISTORIA.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 180,
-    "category": "",
+    "id": "plutococina",
+    "category": "VARIEDADES",
     "name": "PLUTO TV COCINA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/VNhJrY95/PLUTO-TV-COCINA.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId="
   },
   {
-    "id": 181,
-    "category": "",
+    "id": "mundoviajero",
+    "category": "VARIEDADES",
     "name": "MUNDO VIAJERO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Sx0qRzb5/MUNDO-VIAJERO.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e048dd46-54cc-485e-b0d7-5ee578a0a861"
   },
   {
-    "id": 182,
-    "category": "",
+    "id": "anaylos7",
+    "category": "VARIEDADES",
     "name": "ANA Y LOS 7",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bwTz5N4B/ANA-Y-LOS-7.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 183,
-    "category": "",
+    "id": "cvvision",
+    "category": "DOMINICANOS",
     "name": "CV ViSION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9XnrCGm1/CV-Vi-SION.jpg",
     "streamUrl": "https://eu1.servers10.com:8081/8128/index.m3u8"
   },
   {
-    "id": 184,
-    "category": "",
+    "id": "telearagua",
+    "category": "DOMINICANOS",
     "name": "TELEARAGUA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/6p4gN9my/TELEARAGUA.jpg",
     "streamUrl": "http://45.173.198.59:8080/hls/nginx3.m3u8"
   },
   {
-    "id": 185,
-    "category": "",
+    "id": "lavozdemaria",
+    "category": "DOMINICANOS",
     "name": "LA VOZ DE MARIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/BZkxP8KG/LA-VOZ-DE-MARIA.jpg",
     "streamUrl": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8"
   },
   {
-    "id": 186,
-    "category": "",
+    "id": "platinumtv",
+    "category": "DOMINICANOS",
     "name": "PLATINIUM TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pXNR8JHF/PLATINUM-TV.jpg",
     "streamUrl": "https://live20.bozztv.com/akamaissh101/ssh101/platiniumtv/chunks.m3u8"
   },
   {
-    "id": 187,
-    "category": "",
+    "id": "cielotv",
+    "category": "DOMINICANOS",
     "name": "CIELO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/yY3WdkWK/CIELO-TV.jpg",
     "streamUrl": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
   },
   {
-    "id": 188,
-    "category": "",
+    "id": "luz",
+    "category": "DOMINICANOS",
     "name": "LUZ DIVINA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bwjYwgK0/LUZ-DIVINA-TV.jpg",
     "streamUrl": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8"
   },
   {
-    "id": 189,
-    "category": "",
+    "id": "tvluz",
+    "category": "DOMINICANOS",
     "name": "TV LUZ",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wBngnkcs/TV-LUZ.jpg",
     "streamUrl": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8"
   },
   {
-    "id": 190,
-    "category": "",
+    "id": "tele",
+    "category": "DOMINICANOS",
     "name": "TELE RUMBA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FzGgKJ2Z/TELE-RUMBA-TV.jpg",
     "streamUrl": "https://inliveserver.com:1936/18506/18506/playlist.m3u8"
   },
   {
-    "id": 191,
-    "category": "",
+    "id": "pulatv",
+    "category": "DOMINICANOS",
     "name": "PULA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wj0rbW0w/PULA-TV.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8"
   },
   {
-    "id": 192,
-    "category": "",
+    "id": "puntotv",
+    "category": "DOMINICANOS",
     "name": "PUNTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/j5Jk2RK1/PUNTO-TV.png",
     "streamUrl": "https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8"
   },
   {
-    "id": 193,
-    "category": "",
+    "id": "teletur",
+    "category": "DOMINICANOS",
     "name": "TELETUR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YjcSh0H8/TELETUR.jpg",
     "streamUrl": "https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8"
   },
   {
-    "id": 194,
-    "category": "",
+    "id": "vision",
+    "category": "DOMINICANOS",
     "name": "VISION NDV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Rh7s1GWQ/VISION-NDV.jpg",
     "streamUrl": "https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8"
   },
   {
-    "id": 195,
-    "category": "",
+    "id": "tvslive",
+    "category": "DOMINICANOS",
     "name": "TVS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZKmDYkQf/TVS.png",
     "streamUrl": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8"
   },
   {
-    "id": 196,
-    "category": "",
+    "id": "telemicro",
+    "category": "DOMINICANOS",
     "name": "TELEMICRO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vZDJ07yF/Telemicro.png",
     "streamUrl": "http://200.229.147.142:8000/play/a057/index.m3u8"
   },
   {
-    "id": 197,
-    "category": "",
+    "id": "beebtotv",
+    "category": "DOMINICANOS",
     "name": "BEBETO TELEVISION HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qq36xL3H/BEBETO-TELEVISION-HD.jpg",
     "streamUrl": "https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8"
   },
   {
-    "id": 198,
-    "category": "",
+    "id": "digital809tv",
+    "category": "MUSICA",
     "name": "DIGITAL809TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Zq8GpxRj/DIGITAL809-TV.png",
     "streamUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
   },
   {
-    "id": 199,
-    "category": "",
+    "id": "area809",
+    "category": "DOMINICANOS",
     "name": "AREA 809",
-    "logo": "",
+    "logo": "https://i.postimg.cc/tJXyYwzP/AREA-809.png",
     "streamUrl": "https://vdo.voxhdnet.com:3159/stream/play.m3u8"
   },
   {
-    "id": 200,
-    "category": "",
+    "id": "ruta66",
+    "category": "DOMINICANOS",
     "name": "RUTA 66 TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9MBt5MTY/RUTA-66-TV.jpg",
     "streamUrl": "https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8"
   },
   {
-    "id": 201,
-    "category": "",
+    "id": "manaclartv",
+    "category": "DOMINICANOS",
     "name": "MANACLAR TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fRNW4jqN/MANACLAR-TV.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8"
   },
   {
-    "id": 202,
-    "category": "",
+    "id": "citricotv",
+    "category": "DOMINICANOS",
     "name": "CITRICO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/J7HRGd98/CITRICO-TV.jpg",
     "streamUrl": "https://rdn.essastream.com:3996/live/citricotvlive.m3u8"
   },
   {
-    "id": 203,
-    "category": "",
+    "id": "camutv",
+    "category": "DOMINICANOS",
     "name": "CAMU TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mgB4pZhZ/CAMU-TV.jpg",
     "streamUrl": "https://server40.servistreaming.com:3477/stream/play.m3u8"
   },
   {
-    "id": 204,
-    "category": "",
+    "id": "mipueblotv",
+    "category": "DOMINICANOS",
     "name": "MI PUEBLO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wj2pCKsX/MI-PUEBLO-TV.png",
     "streamUrl": "https://ds.tvabierta.net/memfs/e02e5624-6ff9-42b0-b500-68b22e5adc64_output_0.m3u8"
   },
   {
-    "id": 205,
-    "category": "",
+    "id": "tvexitos",
+    "category": "MUSICA",
     "name": "TV EXITOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Jz7yHpT7/TV-EXITOS.jpg",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
   },
   {
-    "id": 206,
-    "category": "",
+    "id": "alegretv",
+    "category": "MUSICA",
     "name": "ALEGRE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/26W9PTcM/ALEGRE-TV.png",
     "streamUrl": "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
   },
   {
-    "id": 207,
-    "category": "",
+    "id": "cibaeñatv",
+    "category": "DOMINICANOS",
     "name": "CIBAEÑA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NfrSdHBc/CIBAE-A-TV.png",
     "streamUrl": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8"
   },
   {
-    "id": 208,
-    "category": "",
+    "id": "clarotv",
+    "category": "DOMINICANOS",
     "name": "CLARO TV DOMINICANA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nrGpP2Jr/CLARO-TV-DOMINICANA.png",
     "streamUrl": "https://streamunoapp.com:3960/live/claroteledomlive.m3u8"
   },
   {
-    "id": 209,
-    "category": "",
+    "id": "teleradionorte",
+    "category": "DOMINICANOS",
     "name": "TELERADIO NORTE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zGBcp9qd/TELERADIO-NORTE.jpg",
     "streamUrl": "https://angelistic.live:3785/live/tvoficiallive.m3u8"
   },
   {
-    "id": 210,
-    "category": "",
+    "id": "vegavisiontv",
+    "category": "DOMINICANOS",
     "name": "VEGAVISION CANAL 18",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mDPfJrmz/VEGAVISION-CANAL-18.jpg",
     "streamUrl": "https://rdn.essastream.com:3400/live/canal18hdlive.m3u8"
   },
   {
-    "id": 211,
-    "category": "",
+    "id": "tlsd",
+    "category": "DOMINICANOS",
     "name": "TLSD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/TP7vtbJv/TLSD.png",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
   },
   {
-    "id": 212,
-    "category": "",
+    "id": "reynatv",
+    "category": "DOMINICANOS",
     "name": "LA REYNA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/6qWkhwzN/LA-REYNA-TV.jpg",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8"
   },
   {
-    "id": 213,
-    "category": "",
+    "id": "antena-latina",
+    "category": "DOMINICANOS",
     "name": "ANTENA LATINA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pXjLGr1x/ANTENA-LATINA.png",
     "streamUrl": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8"
   },
   {
-    "id": 214,
-    "category": "",
+    "id": "rtvd",
+    "category": "DOMINICANOS",
     "name": "RTVD 4-R.D",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5ts4YCj5/RTVD.jpg",
     "streamUrl": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR"
   },
   {
-    "id": 215,
-    "category": "",
+    "id": "montañatv",
+    "category": "DOMINICANOS",
     "name": "LA FE MUEVE MONTAÑA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/k55sj1Z4/LA-FE-MUEVE-MONTA-AS-TV.jpg",
     "streamUrl": "https://inliveserver.com:1936/10020/10020/playlist.m3u8?DVR"
   },
   {
-    "id": 216,
-    "category": "",
+    "id": "elvivientetv",
+    "category": "DOMINICANOS",
     "name": "EL VIVIENTE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/cCQ1Vcjg/EL-VIVIENTE-TV.jpg",
     "streamUrl": "https://host.streamingnation.live/p/3968/live/elvivientetvlive.m3u8"
   },
   {
-    "id": 217,
-    "category": "",
+    "id": "idealtv",
+    "category": "DOMINICANOS",
     "name": "IDEAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kXvXsfKL/IDEAL-TV.png",
     "streamUrl": "https://cloud5.idealtv.net/hls/live.m3u8"
   },
   {
-    "id": 218,
-    "category": "",
+    "id": "antena-21",
+    "category": "DOMINICANOS",
     "name": "ANTENA 21",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NMLg1jr3/ANTENA-21.png",
     "streamUrl": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8"
   },
   {
-    "id": 219,
-    "category": "",
+    "id": "canal del sol",
+    "category": "DOMINICANOS",
     "name": "CANAL DEL SOL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/c1bvkVx7/CANAL-DEL-SOL.png",
     "streamUrl": "https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8"
   },
   {
-    "id": 220,
-    "category": "",
+    "id": "hmtvlive",
+    "category": "DOMINICANOS",
     "name": "HERMANAS MIRABAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Pxs1FJmw/HERMANAS-MIRABAL-TV.png",
     "streamUrl": "https://cnn.essastream.com:3091/live/hmtvlive.m3u8"
   },
   {
-    "id": 221,
-    "category": "",
+    "id": "rnn-noticias",
+    "category": "NOTICIAS",
     "name": "RNN-NOTICIAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1zFxPVw5/RNN-NOTICIAS.jpg",
     "streamUrl": "https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8"
   },
   {
-    "id": 222,
-    "category": "",
+    "id": "rdn",
+    "category": "NOTICIAS",
     "name": "RDN TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YC25YQYc/RDN-TV.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8"
   },
   {
-    "id": 223,
-    "category": "",
+    "id": "noticias-16",
+    "category": "DOMINICANOS",
     "name": "NOTICIAS 16",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Kjk8y8GP/NOTICIAS-16.png",
     "streamUrl": "https://cdn.essastream.com:3457/live/noticiasn16live.m3u8"
   },
   {
-    "id": 224,
-    "category": "",
+    "id": "teleuniverso",
+    "category": "DOMINICANOS",
     "name": "TELEUNIVERSO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zBYsfDFw/TELEUNIVERSO.png",
     "streamUrl": "https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8"
   },
   {
-    "id": 225,
-    "category": "",
+    "id": "naranjatv",
+    "category": "DOMINICANOS",
     "name": "NARANJA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hGDZjCJj/NARANJA-TV.jpg",
     "streamUrl": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8?DVD"
   },
   {
-    "id": 226,
-    "category": "",
+    "id": "telenovisa",
+    "category": "DOMINICANOS",
     "name": "TELENOVISA 43",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SNxSB8JC/TELENOVISA-43.png",
     "streamUrl": "https://rdn.essastream.com:3230/live/telenovisa43live.m3u8"
   },
   {
-    "id": 227,
-    "category": "",
+    "id": "tvdaja",
+    "category": "DOMINICANOS",
     "name": "TV DAJA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/BvJ3GTgZ/TV-DAJA.jpg",
     "streamUrl": "https://rdn.essastream.com:3388/live/dajatvlive.m3u8"
   },
   {
-    "id": 228,
-    "category": "",
+    "id": "santiagotv",
+    "category": "DOMINICANOS",
     "name": "SANTIAGO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3JQyz0Vh/SANTIAGO-TV.png",
     "streamUrl": "https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8"
   },
   {
-    "id": 229,
-    "category": "",
+    "id": "canaldtv",
+    "category": "DOMINICANOS",
     "name": "CANAL DTV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/WbdsGR20/CANAL-DTV.jpg",
     "streamUrl": "https://s.emisoras.tv:8081/dtv/index.m3u8"
   },
   {
-    "id": 230,
-    "category": "",
+    "id": "cromtv",
+    "category": "DOMINICANOS",
     "name": "CROM TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/d3pPH1qr/CROM-TV.png",
     "streamUrl": "https://cnn.essastream.com:3333/live/cromtvlive.m3u8"
   },
   {
-    "id": 231,
-    "category": "",
+    "id": "dantv",
+    "category": "DOMINICANOS",
     "name": "TS TELESIGLO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QMp2n0xB/TS-TELESIGLO.png",
     "streamUrl": "https://vdo2.streamgato.us:3562/live/dantvlive.m3u8"
   },
   {
-    "id": 232,
-    "category": "",
+    "id": "elpuertotv",
+    "category": "DOMINICANOS",
     "name": "EL PUERTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fybfmTrz/EL-PUERTO-TV.png",
     "streamUrl": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8"
   },
   {
-    "id": 233,
-    "category": "",
+    "id": "montecristitvlive",
+    "category": "DOMINICANOS",
     "name": "MONTE CRISTI DIGITAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fW26cLz4/MONTE-CRISTI-DIGITAL.jpg",
     "streamUrl": "https://soportedvb.click:3400/live/montecristitvlive.m3u8"
   },
   {
-    "id": 234,
-    "category": "",
+    "id": "el-seis",
+    "category": "DOMINICANOS",
     "name": "EL SEIS RD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wBQtWMM3/EL-SEIS.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8"
   },
   {
-    "id": 235,
-    "category": "",
+    "id": "microvision",
+    "category": "DOMINICANOS",
     "name": "MICROVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NG3HfW3s/MICROVISION.jpg",
     "streamUrl": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8"
   },
   {
-    "id": 236,
-    "category": "",
+    "id": "tv10-sanjuan",
+    "category": "DOMINICANOS",
     "name": "TV 10-SAN JUAN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gk36wgpv/TV-10-SAN-JUAN.png",
     "streamUrl": "https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8"
   },
   {
-    "id": 237,
-    "category": "",
+    "id": "villaalt",
+    "category": "DOMINICANOS",
     "name": "VILLA ALTAGRACIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Pf2hQx2x/VILLA-ALTAGRACIA-TV.jpg",
     "streamUrl": "https://inliveserver.com:1936/10016/10016/playlist.m3u8"
   },
   {
-    "id": 238,
-    "category": "",
+    "id": "telever",
+    "category": "DOMINICANOS",
     "name": "TELEVER-JARABACOA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/PrbPfNby/TELEVER-JARABACOA.jpg",
     "streamUrl": "https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8"
   },
   {
-    "id": 239,
-    "category": "",
+    "id": "catorce-tv",
+    "category": "DOMINICANOS",
     "name": "CATORCE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Gmc94rqC/CATORCE-TV.jpg",
     "streamUrl": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
   },
   {
-    "id": 240,
-    "category": "",
+    "id": "cinevision",
+    "category": "DOMINICANOS",
     "name": "CINEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nLrz1kyS/CINEVISION-CANAL-19.jpg",
     "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8"
   },
   {
-    "id": 241,
-    "category": "",
+    "id": "nexotv",
+    "category": "DOMINICANOS",
     "name": "NEXXO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SKPK19qS/NEXXO-TV.png",
     "streamUrl": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8"
   },
   {
-    "id": 242,
-    "category": "",
+    "id": "teledigital",
+    "category": "DOMINICANOS",
     "name": "TELEDIGITAL-CANAL56",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ydS8MNYF/TELEDIGITAL-CANAL-56.jpg",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8"
   },
   {
-    "id": 243,
-    "category": "",
+    "id": "entelevisionlive",
+    "category": "DOMINICANOS",
     "name": "EN TELEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/7YZphW0R/EN-TELEVISION.png",
     "streamUrl": "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8"
   },
   {
-    "id": 244,
-    "category": "",
+    "id": "hilandofinotvlive",
+    "category": "DOMINICANOS",
     "name": "HILANDO FINO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZnRVbX2F/HILANDO-FINO-TV.jpg",
     "streamUrl": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8"
   },
   {
-    "id": 245,
-    "category": "",
+    "id": "canal35live",
+    "category": "DOMINICANOS",
     "name": "AHORA TV 35",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nVR3Rc9d/AHORA-TV-35.jpg",
     "streamUrl": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
   },
   {
-    "id": 246,
-    "category": "",
+    "id": "cdn37",
+    "category": "NOTICIAS",
     "name": "CDN 37",
-    "logo": "",
+    "logo": "https://i.postimg.cc/JzbcL1tC/CDN-37.png",
     "streamUrl": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/7ed9a111-1110-47df-3bd8-85a9e0a15e3c.m3u8"
   },
   {
-    "id": 247,
-    "category": "",
+    "id": "tvo-laromana",
+    "category": "DOMINICANOS",
     "name": "TVO-LA ROMANA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/q7wsNj8m/TVO-LA-ROMANA.jpg",
     "streamUrl": "https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8"
   },
   {
-    "id": 248,
-    "category": "",
+    "id": "lunatvcanal53live",
+    "category": "DOMINICANOS",
     "name": "LUNA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5Nz8BxBQ/LUNA-TV.jpg",
     "streamUrl": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
   },
   {
-    "id": 249,
-    "category": "",
+    "id": "deultimominutotv",
+    "category": "DOMINICANOS",
     "name": "DE ULTIMO MINUTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qRg3z0BR/DE-ULTIMO-MINUTO-TV.jpg",
     "streamUrl": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8"
   },
   {
-    "id": 250,
-    "category": "",
+    "id": "altantotv",
+    "category": "DOMINICANOS",
     "name": "ALTANTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L4wWTBWC/ALTANTO-TV.jpg",
     "streamUrl": "https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8"
   },
   {
-    "id": 251,
-    "category": "",
+    "id": "hainavisionlive",
+    "category": "DOMINICANOS",
     "name": "HAINA VISION-CANAL 6",
-    "logo": "",
+    "logo": "https://i.postimg.cc/C1D8V0Ff/HAINA-VISION-CANAL-6.jpg",
     "streamUrl": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8"
   },
   {
-    "id": 252,
-    "category": "",
+    "id": "bellavision8hdlive",
+    "category": "DOMINICANOS",
     "name": "BELLAVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/XJpbZNZp/BELLAVISION.png",
     "streamUrl": "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
   },
   {
-    "id": 253,
-    "category": "",
+    "id": "canalcocotvlive",
+    "category": "DOMINICANOS",
     "name": "COCO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gkvnc4F1/COCO-TV.jpg",
     "streamUrl": "https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8"
   },
   {
-    "id": 254,
-    "category": "",
+    "id": "telenord08live",
+    "category": "DOMINICANOS",
     "name": "TELENORD-CANAL 8",
-    "logo": "",
+    "logo": "https://i.postimg.cc/66DkpFDc/TELENORD-CANAL-08.png",
     "streamUrl": "https://rdn.essastream.com:3170/live/telenord8live.m3u8"
   },
   {
-    "id": 255,
-    "category": "",
+    "id": "telenord10live",
+    "category": "DOMINICANOS",
     "name": "TELENORD CANAL 10",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FzYCg7mJ/TELENORD.jpg",
     "streamUrl": "https://rdn.essastream.com:3676/live/telenord10live.m3u8"
   },
   {
-    "id": 256,
-    "category": "",
+    "id": "telenord12live",
+    "category": "DOMINICANOS",
     "name": "TELENORD-CANAL 12",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MpwgyVZj/TELENORD-CANAL-12.png",
     "streamUrl": "https://vdo1.streamgato.us:3345/live/telenord12live.m3u8"
   },
   {
-    "id": 257,
-    "category": "",
+    "id": "bajotechotvlive",
+    "category": "DOMINICANOS",
     "name": "BAJO TECHO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qRhZ2Np6/BAJO-TECHO-TV.png",
     "streamUrl": "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8"
   },
   {
-    "id": 258,
-    "category": "",
+    "id": "Vallevision",
+    "category": "DOMINICANOS",
     "name": "VALLEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mk3jSMJk/VALLEVISION.jpg",
     "streamUrl": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8"
   },
   {
-    "id": 259,
-    "category": "",
+    "id": "ReadyTV",
+    "category": "DOMINICANOS",
     "name": "READY HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L88DzJT4/READY-HD.png",
     "streamUrl": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8"
   },
   {
-    "id": 260,
-    "category": "",
+    "id": "borealtelevisionhdlive",
+    "category": "DOMINICANOS",
     "name": "BOREAL TELEVISION HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Y2NzZ6Dq/BOREAL-TELEVISION.png",
     "streamUrl": "https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8"
   },
   {
-    "id": 261,
-    "category": "",
+    "id": "telemaxlive",
+    "category": "DOMINICANOS",
     "name": "TELEMAXRD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nccBW6Q0/TELEMAXRD.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8"
   },
   {
-    "id": 262,
-    "category": "",
+    "id": "Fuegotv",
+    "category": "DOMINICANOS",
     "name": "FUEGO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MHZMhQXv/FUEGO-TV.jpg",
     "streamUrl": "https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8"
   },
   {
-    "id": 263,
-    "category": "",
+    "id": "colimdotvliv",
+    "category": "DOMINICANOS",
     "name": "COLIMDO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gkJLs8f7/COLIMDO-TV.jpg",
     "streamUrl": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
   },
   {
-    "id": 264,
-    "category": "",
+    "id": "teleimpacto",
+    "category": "DOMINICANOS",
     "name": "TELE IMPACTO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KYn1jNM1/TELEIMPACTO.png",
     "streamUrl": "https://vpss2003.streamprolive.com/hls/live.m3u8"
   },
   {
-    "id": 265,
-    "category": "",
+    "id": "telecontacto",
+    "category": "DOMINICANOS",
     "name": "TELECONTACTO 57",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3NbRVfPc/TELECONTACTO-57.jpg",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8"
   },
   {
-    "id": 266,
-    "category": "",
+    "id": "vegatevelive",
+    "category": "DOMINICANOS",
     "name": "VEGA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sgPzZ0TC/VEGATEVE.png",
     "streamUrl": "https://cloud6.livescast.com:3797/live/vegatevelive.m3u8"
   },
   {
-    "id": 267,
-    "category": "",
+    "id": "vtv32live",
+    "category": "DOMINICANOS",
     "name": "VTV 32",
-    "logo": "",
+    "logo": "https://i.postimg.cc/2jP3QM71/VTV-32.jpg",
     "streamUrl": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
   },
   {
-    "id": 268,
-    "category": "",
+    "id": "telecanal12",
+    "category": "DOMINICANOS",
     "name": "TELECANAL 12",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MZdwZszr/TELECANAL-12.jpg",
     "streamUrl": "https://rdn.essastream.com:3258/live/telecanal12live.m3u8"
   },
   {
-    "id": 269,
-    "category": "",
+    "id": "alcarrizostv",
+    "category": "CINE-SERIES",
     "name": "ALCARRIZOS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/D07ykYGk/ALCARRIZOS-TV.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8"
   },
   {
-    "id": 270,
-    "category": "",
+    "id": "teledominicana",
+    "category": "DOMINICANOS",
     "name": "TELE DOMINICANA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KYLZKyrh/TELE-DOMINICANA.png",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8"
   },
   {
-    "id": 271,
-    "category": "",
+    "id": "makinavision",
+    "category": "DOMINICANOS",
     "name": "MAKINA VISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/BnTYtYLw/MAKINA-VISION.jpg",
     "streamUrl": "https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8"
   },
   {
-    "id": 272,
-    "category": "",
+    "id": "agenda56",
+    "category": "DOMINICANOS",
     "name": "AGENDA 56",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RZqS1rxL/AGENDA-56.png",
     "streamUrl": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8"
   },
   {
-    "id": 273,
-    "category": "",
+    "id": "iontv",
+    "category": "DOMINICANOS",
     "name": "AION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/j56tqtyt/ION-TV.jpg",
     "streamUrl": "https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8"
   },
   {
-    "id": 274,
-    "category": "",
+    "id": "canaldatv",
+    "category": "DOMINICANOS",
     "name": "CANALDA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/26xNRTf5/CANALDA-TV.jpg",
     "streamUrl": "https://canalda.rgradio.net:3084/live/canaldalive.m3u8"
   },
   {
-    "id": 275,
-    "category": "",
+    "id": "cenovision",
+    "category": "DOMINICANOS",
     "name": "CENOVISION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/WbCKyxJn/CENOVISION-TV.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8"
   },
   {
-    "id": 276,
-    "category": "",
+    "id": "ecovision",
+    "category": "DOMINICANOS",
     "name": "ECOVISION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fLPjLQsq/ECOVISION-TV.png",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
   },
   {
-    "id": 277,
-    "category": "",
+    "id": "edumas",
+    "category": "DOMINICANOS",
     "name": "EDU MAS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zvJb8db2/EDU-MAS-TV.jpg",
     "streamUrl": "https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8"
   },
   {
-    "id": 278,
-    "category": "",
+    "id": "ghtv",
+    "category": "DOMINICANOS",
     "name": "GH TELEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/PrCfYsjz/GH-TELEVISION.jpg",
     "streamUrl": "https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8"
   },
   {
-    "id": 279,
-    "category": "",
+    "id": "imguniv",
+    "category": "DOMINICANOS",
     "name": "IMAGEN UNIVERSAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T3mRNVhK/IMAGEN-UNIVERSAL-TV.png",
     "streamUrl": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
   },
   {
-    "id": 280,
-    "category": "",
+    "id": "jimanitv",
+    "category": "DOMINICANOS",
     "name": "JIMANI TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/k4Mq5LsS/JIMANI-TV.jpg",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8"
   },
   {
-    "id": 281,
-    "category": "",
+    "id": "lacaletatv",
+    "category": "DOMINICANOS",
     "name": "LA CALETA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8c9StcSd/LA-CALETA-TV.jpg",
     "streamUrl": "https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8"
   },
   {
-    "id": 282,
-    "category": "",
+    "id": "larutatv",
+    "category": "DOMINICANOS",
     "name": "LA RUTA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SQ3b0nBC/LA-RUTA-TV.jpg",
     "streamUrl": "https://streamunoapp.com:3983/live/larutatvlive.m3u8"
   },
   {
-    "id": 283,
-    "category": "",
+    "id": "makaotv",
+    "category": "DOMINICANOS",
     "name": "MAKAO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/w38r1mzr/MAKAO-TV.png",
     "streamUrl": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8"
   },
   {
-    "id": 284,
-    "category": "",
-    "name": "CHINOLA TV",
-    "logo": "",
+    "id": "chinolatv",
+    "category": "ANIME-INFANTIL",
+    "name": " CHINOLA TV",
+    "logo": "https://i.postimg.cc/1RNmSDPN/CHINOLA-TV.png",
     "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
   },
   {
-    "id": 285,
-    "category": "",
+    "id": "pitucotv",
+    "category": "DOMINICANOS",
     "name": "PITUCO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1zd1948k/PITUCO-TV.png",
     "streamUrl": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8"
   },
   {
-    "id": 286,
-    "category": "",
+    "id": "puntacanatv",
+    "category": "DOMINICANOS",
     "name": "PUNTA CANA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fyn49Fj5/PUNTA-CANA-TV.jpg",
     "streamUrl": "https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8"
   },
   {
-    "id": 287,
-    "category": "",
+    "id": "sanisidrotv",
+    "category": "DOMINICANOS",
     "name": "SAN ISIDRO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/50zTbgdz/SAN-ISIDRO-TV.jpg",
     "streamUrl": "https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8"
   },
   {
-    "id": 288,
-    "category": "",
+    "id": "simatv",
+    "category": "DOMINICANOS",
     "name": "SIMA VISION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YCSPhMBM/SIMA-VISION-TV.png",
     "streamUrl": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8"
   },
   {
-    "id": 289,
-    "category": "",
+    "id": "sumundotv",
+    "category": "DOMINICANOS",
     "name": "SU MUNDO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/R06bLd0Y/SU-MUNDO-TV.jpg",
     "streamUrl": "https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/tracks-v2a1/mono.ts.m3u8"
   },
   {
-    "id": 290,
-    "category": "",
+    "id": "teleuniversal",
+    "category": "DOMINICANOS",
     "name": "TELE UNIVERSAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4yZLZT1C/TELE-UNIVERSAL.png",
     "streamUrl": "https://vdo2.streamgato.us:3466/live/teleuniversaldclive.m3u8"
   },
   {
-    "id": 291,
-    "category": "",
+    "id": "telecanal28",
+    "category": "DOMINICANOS",
     "name": "TELECANAL 28",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sf9HmvV3/TELECANAL-28.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8"
   },
   {
-    "id": 292,
-    "category": "",
+    "id": "telecibao",
+    "category": "DOMINICANOS",
     "name": "TELECIBAO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/25Z2Z5cR/TELECIBAO.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8"
   },
   {
-    "id": 293,
-    "category": "",
+    "id": "teleturismo",
+    "category": "DOMINICANOS",
     "name": "TELETURISMO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mDWVNGJc/TELETURISMO.png",
     "streamUrl": "https://stream.gia.tv/giatvplayout7/giatv-208343/tracks-v1a1/mono.ts.m3u8"
   },
   {
-    "id": 294,
-    "category": "",
+    "id": "xtratv",
+    "category": "DOMINICANOS",
     "name": "XTRA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/BndC40qh/XTRA-TV.png",
     "streamUrl": "https://cnn.essastream.com:3387/live/xtratvlive.m3u8"
   },
   {
-    "id": 295,
-    "category": "",
+    "id": "galaxiatv",
+    "category": "DOMINICANOS",
     "name": "GALAXIA TEVE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nLrz1kyS/CINEVISION-CANAL-19.jpg",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
   },
   {
-    "id": 296,
-    "category": "",
+    "id": "megavision43",
+    "category": "DOMINICANOS",
     "name": "MEGAVISION 43",
-    "logo": "",
+    "logo": "https://i.postimg.cc/cCK1qZj0/MEGAVISION-TV.png",
     "streamUrl": "https://66b3a8363297d.streamlock.net/megavision/MV/playlist.m3u8"
   },
   {
-    "id": 297,
-    "category": "",
+    "id": "musavision",
+    "category": "DOMINICANOS",
     "name": "MUSAVICION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/g2KxHcbT/MUSAVISION.jpg",
     "streamUrl": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 298,
-    "category": "",
+    "id": "deltatv",
+    "category": "DOMINICANOS",
     "name": "DELTA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Pq3N06xb/DELTA-TV.png",
     "streamUrl": "https://rdn.essastream.com:3949/live/deltatv50live.m3u8"
   },
   {
-    "id": 299,
-    "category": "",
+    "id": "super7",
+    "category": "DOMINICANOS",
     "name": "SUPER 7 FM",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QtvCdHcH/SUPER-7-FM.png",
     "streamUrl": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
   },
   {
-    "id": 300,
-    "category": "",
+    "id": "higuey",
+    "category": "DOMINICANOS",
     "name": "HIGUEY DIGITAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3wRxjgBk/HIGUEY-DIGITAL.jpg",
     "streamUrl": "https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8"
   },
   {
-    "id": 301,
-    "category": "",
+    "id": "cotubanama",
+    "category": "DOMINICANOS",
     "name": "COTUBANAMA DIGITAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CKQLczPm/COTUBANAMA-DIGITAL.jpg",
     "streamUrl": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8"
   },
   {
-    "id": 302,
-    "category": "",
+    "id": "nitidatv",
+    "category": "DOMINICANOS",
     "name": "NITIDA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/JnH7vMSm/NITIDA-TV.jpg",
     "streamUrl": "https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8?"
   },
   {
-    "id": 303,
-    "category": "",
+    "id": "farovision",
+    "category": "DOMINICANOS",
     "name": "FAROVISION 22",
-    "logo": "",
+    "logo": "https://i.postimg.cc/90GmX1Wn/FAROVISION.jpg",
     "streamUrl": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
   },
   {
-    "id": 304,
-    "category": "",
+    "id": "htvlive",
+    "category": "DOMINICANOS",
     "name": "CANAL HTV LIVE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8zy1C7SN/CANAL-HTV-LIVE.png",
     "streamUrl": "https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8"
   },
   {
-    "id": 305,
-    "category": "",
+    "id": "srcmedia",
+    "category": "DOMINICANOS",
     "name": "SRC MEDIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/d0pw8g3f/SRC-MEDIA-TV.jpg",
     "streamUrl": "https://video.misistemareseller.com:1936/srctv/srctv/playlist.m3u8"
   },
   {
-    "id": 306,
-    "category": "",
+    "id": "zonavision",
+    "category": "DOMINICANOS",
     "name": "ZONA VISION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Y9Fk88mC/ZONA-VISION-TV.png",
     "streamUrl": "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8"
   },
   {
-    "id": 307,
-    "category": "",
+    "id": "vallenuevotv",
+    "category": "DOMINICANOS",
     "name": "VALLE NUEVO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wMdzrJhc/VALLE-NUEVO-TV.jpg",
     "streamUrl": "https://media.streambrothers.com:19360/8262/8262.m3u8"
   },
   {
-    "id": 308,
-    "category": "",
+    "id": "hits360fm",
+    "category": "DOMINICANOS",
     "name": "HITS 360 FM",
-    "logo": "",
+    "logo": "https://i.postimg.cc/VLgw7J5n/HITS-360-FM.png",
     "streamUrl": "https://cdn.essastream.com:3023/live/hits360tvlive.m3u8"
   },
   {
-    "id": 309,
-    "category": "",
+    "id": "salvaciontv",
+    "category": "DOMINICANOS",
     "name": "SALVACION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pL1HH3fd/SALVACION-TV.png",
     "streamUrl": "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
   },
   {
-    "id": 310,
-    "category": "",
+    "id": "locomotion",
+    "category": "ANIME-INFANTIL",
     "name": "LOCOMOTION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SKTbBb5F/LOCOMOTION-TV.jpg",
     "streamUrl": "http://51.222.85.85:81/hls/loco/index.m3u8"
   },
   {
-    "id": 311,
-    "category": "",
+    "id": "monitv",
+    "category": "ANIME-INFANTIL",
     "name": "MONI TV HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rsZVbjhs/MONI-TV-HD.jpg",
     "streamUrl": "https://tv.arkeo.cl:19360/8134/8134.m3u8"
   },
   {
-    "id": 312,
-    "category": "",
+    "id": "aniretro",
+    "category": "ANIME-INFANTIL",
     "name": "ANI RETRO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mDxY6t17/ANI-RETRO.png",
     "streamUrl": "https://tv.arkeo.cl:19360/8000/8000.m3u8"
   },
   {
-    "id": 313,
-    "category": "",
+    "id": "disney",
+    "category": "ANIME-INFANTIL",
     "name": "DISNEY CHANNEL EAST",
-    "logo": "",
+    "logo": "https://i.postimg.cc/90GbfpvZ/DISNEY-CHANNEL-EAST.jpg",
     "streamUrl": "https://tvpass.org/live/DisneyChannelEast/sd"
   },
   {
-    "id": 314,
-    "category": "",
+    "id": "disney",
+    "category": "ANIME-INFANTIL",
     "name": "DISNEY JUNIOR EAST",
-    "logo": "",
+    "logo": "https://i.postimg.cc/brNrGY5g/DISNEY-JUNIOR-EAST.png",
     "streamUrl": "https://tvpass.org/live/DisneyJuniorEast/sd"
   },
   {
-    "id": 315,
-    "category": "",
-    "name": "DISNEY XD EAST",
-    "logo": "",
-    "streamUrl": "https://tvpass.org/live/DisneyXDEast/sd"
-  },
-  {
-    "id": 316,
-    "category": "",
+    "id": "jesus",
+    "category": "DOMINICANOS",
     "name": "SOLDADITOS DE JESUS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NFkt9vh1/SOLDADITOS-DE-JESUS-TV.png",
     "streamUrl": "https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8"
   },
   {
-    "id": 317,
-    "category": "",
+    "id": "sensical",
+    "category": "DOMINICANOS",
     "name": "SENSICAL KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/029PgjmZ/SENSICAL-KIDS.jpg",
     "streamUrl": "https://sensical2up-oando.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 318,
-    "category": "",
+    "id": "moonbugtv",
+    "category": "ANIME-INFANTIL",
     "name": ",MOONBUG TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/0yCM1s1Y/MOONBUG-TV.jpg",
     "streamUrl": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 319,
-    "category": "",
+    "id": "rugrats",
+    "category": "ANIME-INFANTIL",
     "name": ",RUGRATS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/25c13763/RUGRATS.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 320,
-    "category": "",
+    "id": "pitufostv",
+    "category": "ANIME-INFANTIL",
     "name": "PITUFO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/tgw9LSJd/PITUFO-TV.png",
     "streamUrl": "https://jmp2.uk/sam-ESBD130000205.m3u8"
   },
   {
-    "id": 321,
-    "category": "",
+    "id": "callow",
+    "category": "ANIME-INFANTIL",
     "name": "CAILLOW",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hPcKW7DY/CAILLOW.jpg",
     "streamUrl": "https://jmp2.uk/sam-ES4800002OZ.m3u8"
   },
   {
-    "id": 322,
-    "category": "",
+    "id": "supertoons",
+    "category": "ANIME-INFANTIL",
     "name": "SUPER TOONS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/dVSFyH2M/SUPER-TOONS-TV.jpg",
     "streamUrl": "https://jmp2.uk/sam-ESBD5100001G0.m3u8"
   },
   {
-    "id": 323,
-    "category": "",
+    "id": "abeja",
+    "category": "ANIME-INFANTIL",
     "name": "LA AVEJA MAYA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5thMPXKn/LA-AVEJA-MAYA.jpg",
     "streamUrl": "https://jmp2.uk/sam-ESBD3200002V5.m3u8"
   },
   {
-    "id": 324,
-    "category": "",
+    "id": "rabbits",
+    "category": "ANIME-INFANTIL",
     "name": "RABBITS-LA INVASION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RVDp1jDT/RABBITS-LA-INVASION.jpg",
     "streamUrl": "https://jmp2.uk/sam-ESBD2300003S5.m3u8"
   },
   {
-    "id": 325,
-    "category": "",
+    "id": "ninja",
+    "category": "ANIME-INFANTIL",
     "name": "EL NINJA BOY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/GmT7XX0n/EL-NINJA-BOY.jpg",
     "streamUrl": "https://jmp2.uk/sam-ES2600008NX.m3u8"
   },
   {
-    "id": 326,
-    "category": "",
+    "id": "naruto",
+    "category": "ANIME-INFANTIL",
     "name": ",NARUTO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FHSpy1c9/NARUTO.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 327,
-    "category": "",
+    "id": "anime",
+    "category": "ANIME-INFANTIL",
     "name": "ANIME VISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MTr1pDM2/ANIME-VISION.jpg",
     "streamUrl": "https://jmp2.uk/sam-ES300029LP.m3u8"
   },
   {
-    "id": 328,
-    "category": "",
+    "id": "anime",
+    "category": "ANIME-INFANTIL",
     "name": "ANIME VISION CLASSIC",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MTr1pDM2/ANIME-VISION.jpg",
     "streamUrl": "https://jmp2.uk/sam-ES3000288I.m3u8"
   },
   {
-    "id": 329,
-    "category": "",
+    "id": "clan",
+    "category": "ANIME-INFANTIL",
     "name": "CLAN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CMvX9pQK/CLAN.png",
     "streamUrl": "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8"
   },
   {
-    "id": 330,
-    "category": "",
+    "id": "legokids",
+    "category": "ANIME-INFANTIL",
     "name": "LEGO KIDS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zffBjqG8/LEGO-KIDS-TV.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536"
   },
   {
-    "id": 331,
-    "category": "",
+    "id": "kidmovietv",
+    "category": "ANIME-INFANTIL",
     "name": "KIDS MOVIE CLUB TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Hxckq3MN/KIDS-MOVIE-CLUB-TV.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac"
   },
   {
-    "id": 332,
-    "category": "",
+    "id": "anime",
+    "category": "ANIME-INFANTIL",
     "name": "BEBECITO BUM Y SUS AMIGOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/XY8hv7DD/BEBECITO-BUM-Y-SUS-AMIGOS.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b"
   },
   {
-    "id": 333,
-    "category": "",
+    "id": "plutotv",
+    "category": "ANIME-INFANTIL",
     "name": "NICK JR PLUTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3J0Rqpdd/NICK-JR-PLUTO-TV.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf"
   },
   {
-    "id": 334,
-    "category": "",
+    "id": "plutotv",
+    "category": "ANIME-INFANTIL",
     "name": "NICKELODEON PLUTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zf8G3cpg/NICKELODEON-PLUTO-TV.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291"
   },
   {
-    "id": 335,
-    "category": "",
+    "id": "plutotv",
+    "category": "ANIME-INFANTIL",
     "name": "NICK PLUTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Kj6ZbqR4/NICK-PLUTO-TV.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e"
   },
   {
-    "id": 336,
-    "category": "",
+    "id": "animeallday",
+    "category": "ANIME-INFANTIL",
     "name": "ANIME ALL DAY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T1fghGsC/ANIME-ALL-DAY.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356"
   },
   {
-    "id": 337,
-    "category": "",
+    "id": "babysharktv",
+    "category": "ANIME-INFANTIL",
     "name": "BABY SHARK TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4NMW6z8f/BABY-SHARK-TV.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795"
   },
   {
-    "id": 338,
-    "category": "",
+    "id": "90kids",
+    "category": "ANIME-INFANTIL",
     "name": "90 KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vZnjNPj2/90-KIDS.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565"
   },
   {
-    "id": 339,
-    "category": "",
+    "id": "zom-zom",
+    "category": "ANIME-INFANTIL",
     "name": "ZOOM-ZOOM",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T2rJFzYD/ZOOM-ZOOM.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3739-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61bcf170-9a7d-4ad9-8836-366120619cff"
   },
   {
-    "id": 340,
-    "category": "",
+    "id": "plutokids",
+    "category": "ANIME-INFANTIL",
     "name": "PLUTO TV KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/26pzN3Fd/PLUTO-TV-KIDS.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 341,
-    "category": "",
+    "id": "plutokids",
+    "category": "ANIME-INFANTIL",
     "name": "PLUTO TV RETRO KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/26pzN3Fd/PLUTO-TV-KIDS.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6"
   },
   {
-    "id": 342,
-    "category": "",
+    "id": "cartoons",
+    "category": "ANIME-INFANTIL",
     "name": "PLUTO CARTOONS CHANNEL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zBY7dNRj/PLUTO-CARTOONS-CHANNEL.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae"
   },
   {
-    "id": 343,
-    "category": "",
+    "id": "PlutoTVToonsClasico.es",
+    "category": "ANIME-INFANTIL",
     "name": "PLUTO TV TOONS CLASICO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hPV8B2zz/PLUTO-TV-TOONS-CLASICO.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 344,
-    "category": "",
+    "id": "nick",
+    "category": "ANIME-INFANTIL",
     "name": "NICK CLASICO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/76Q0shS9/NICK-CLASICO.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 345,
-    "category": "",
-    "name": "CHINOLA TV",
-    "logo": "",
+    "id": "chinolatv",
+    "category": "ANIME-INFANTIL",
+    "name": " CHINOLA TV",
+    "logo": "https://i.postimg.cc/1RNmSDPN/CHINOLA-TV.png",
     "streamUrl": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8"
   },
   {
-    "id": 346,
-    "category": "",
+    "id": "xabarin",
+    "category": "ANIME-INFANTIL",
     "name": "TVG XABARIN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zBMKvTBJ/TVG-XABARIN.png",
     "streamUrl": "https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/chunklist_b2200000.m3u8"
   },
   {
-    "id": 347,
-    "category": "",
+    "id": "logoskids",
+    "category": "ANIME-INFANTIL",
     "name": "LOGOS TV KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/WbmqLBMp/LOGOS-TV-KIDS.png",
     "streamUrl": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
   },
   {
-    "id": 348,
-    "category": "",
+    "id": "trtcocuk",
+    "category": "ANIME-INFANTIL",
     "name": "TRT COCUK",
-    "logo": "",
+    "logo": "https://i.postimg.cc/j5WnpChB/TRT-COCUK.jpg",
     "streamUrl": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
   },
   {
-    "id": 349,
-    "category": "",
+    "id": "boing",
+    "category": "ANIME-INFANTIL",
     "name": "BOING",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zD41mB9C/BOING.png",
     "streamUrl": "http://185.189.225.150:85/boing/index.m3u8"
   },
   {
-    "id": 350,
-    "category": "",
+    "id": "disney",
+    "category": "ANIME-INFANTIL",
     "name": "DISNEY CHANNEL EAST",
-    "logo": "",
+    "logo": "https://i.postimg.cc/90GbfpvZ/DISNEY-CHANNEL-EAST.jpg",
     "streamUrl": "https://tvpass.org/live/DisneyChannelEast/sd"
   },
   {
-    "id": 351,
-    "category": "",
+    "id": "disney",
+    "category": "ANIME-INFANTIL",
     "name": "DISNEY JUNIOR EAST",
-    "logo": "",
+    "logo": "https://i.postimg.cc/brNrGY5g/DISNEY-JUNIOR-EAST.png",
     "streamUrl": "https://tvpass.org/live/DisneyJuniorEast/sd"
   },
   {
-    "id": 352,
-    "category": "",
-    "name": "DISNEY XD EAST",
-    "logo": "",
-    "streamUrl": "https://tvpass.org/live/DisneyXDEast/sd"
-  },
-  {
-    "id": 353,
-    "category": "",
+    "id": "baytv",
+    "category": "ANIME-INFANTIL",
     "name": "BABY TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vHcb7x1j/BABY-TV.jpg",
     "streamUrl": "http://185.189.225.150:85/BabyTV/index.m3u8"
   },
   {
-    "id": 354,
-    "category": "",
+    "id": "ducktv",
+    "category": "ANIME-INFANTIL",
     "name": "DUCK TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Pr1DqQYN/DUCK-TV.jpg",
     "streamUrl": "https://jmp2.uk/sam-ESBC4700001GR.m3u8"
   },
   {
-    "id": 355,
-    "category": "",
+    "id": "babyfirt",
+    "category": "ANIME-INFANTIL",
     "name": "BABYFIRST",
-    "logo": "",
+    "logo": "https://i.postimg.cc/HLp9r15C/BABYFIRST.jpg",
     "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
   },
   {
-    "id": 356,
-    "category": "",
+    "id": "disney",
+    "category": "ANIME-INFANTIL",
     "name": "DISNEY XD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/GpYZhB3y/DISNEY-XD.png",
     "streamUrl": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
   },
   {
-    "id": 357,
-    "category": "",
+    "id": "sat7kids",
+    "category": "ANIME-INFANTIL",
     "name": "SAT 7 KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FKq9Vc6V/SAT-7-KIDS.png",
     "streamUrl": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
   },
   {
-    "id": 358,
-    "category": "",
+    "id": "diostvkids",
+    "category": "ANIME-INFANTIL",
     "name": "DIOS TE VE KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RCwMwWLw/DIOS-TE-VE-KIDS.png",
     "streamUrl": "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
   },
   {
-    "id": 359,
-    "category": "",
+    "id": "pemielkids",
+    "category": "ANIME-INFANTIL",
     "name": "PENIEL KIDS & YOUNG",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L6RmDmxw/PENIEL-KIDS-YOUNG.jpg",
     "streamUrl": "https://s.emisoras.tv:8081/penielkids/index.m3u8"
   },
   {
-    "id": 360,
-    "category": "",
+    "id": "mnetkids",
+    "category": "ANIME-INFANTIL",
     "name": "M-NET KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Y9YwNPYt/M-NET-KIDS.jpg",
     "streamUrl": "http://ares.mnet.mk/hls/mnet-kids.m3u8"
   },
   {
-    "id": 361,
-    "category": "",
+    "id": "zoomoo",
+    "category": "ANIME-INFANTIL",
     "name": "ZOO MOO AUSTRALIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/K8bVC72Z/ZOO-MOO-AUSTRALIA.jpg",
     "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 362,
-    "category": "",
+    "id": "wordingtv",
+    "category": "ANIME-INFANTIL",
     "name": "WORDING TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1RF2M4V2/WORDING-TV.jpg",
     "streamUrl": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8"
   },
   {
-    "id": 363,
-    "category": "",
+    "id": "mogigkid",
+    "category": "ANIME-INFANTIL",
     "name": "MAGIC KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SsTbNsct/MAGIC-KIDS.jpg",
     "streamUrl": "https://magicstream.ddns.net/magicstream/stream.m3u8"
   },
   {
-    "id": 364,
-    "category": "",
+    "id": "ntvchile",
+    "category": "ANIME-INFANTIL",
     "name": "NTV CHILE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/W3BLJyfM/NTV-CHILE.png",
     "streamUrl": "https://marine2.miplay.cl/ntv/playlist.m3u8"
   },
   {
-    "id": 365,
-    "category": "",
+    "id": "pbskids",
+    "category": "ANIME-INFANTIL",
     "name": "PBS KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sxmmRQSv/PBS-KIDS.png",
     "streamUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
   },
   {
-    "id": 366,
-    "category": "",
+    "id": "pbskids",
+    "category": "ANIME-INFANTIL",
     "name": "PBS KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/2SSrp2Rx/PBS-KIDS.jpg",
     "streamUrl": "http://mytv.dothome.co.kr/ch/catv/6.php"
   },
   {
-    "id": 367,
-    "category": "",
+    "id": "aztv",
+    "category": "ANIME-INFANTIL",
     "name": "AZTV-ANIME ZONE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8zbqjPvG/AZTV-ANIME-ZONE.jpg",
     "streamUrl": "https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1615600010.m3u8"
   },
   {
-    "id": 368,
-    "category": "",
+    "id": "ztvplay",
+    "category": "ANIME-INFANTIL",
     "name": "ZTV ANIME",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5N0Vbs3R/ZTV-ANIME.jpg",
     "streamUrl": "https://mitv.zplay.cl/Ztv/index.m3u8?WebM3UCL"
   },
   {
-    "id": 369,
-    "category": "",
+    "id": "kids",
+    "category": "ANIME-INFANTIL",
     "name": "3ABN KIDS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Bny8FgvG/3-ABN-KIDS-LOGO.png",
     "streamUrl": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
   },
   {
-    "id": 370,
-    "category": "",
+    "id": "peque-pequetv",
+    "category": "ANIME-INFANTIL",
     "name": "PEQUERADIO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZYpnbj6p/PEQUERADIOS.jpg",
     "streamUrl": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
   },
   {
-    "id": 371,
-    "category": "",
+    "id": "xtrema",
+    "category": "ANIME-INFANTIL",
     "name": "XTREMA ANIME",
-    "logo": "",
+    "logo": "https://i.postimg.cc/6pM6TFLS/XTREMA-KIDS-TV.jpg",
     "streamUrl": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
   },
   {
-    "id": 372,
-    "category": "",
+    "id": "mastv",
+    "category": "CINE-SERIES",
     "name": "MAS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1XZHGDxj/MAS-TV.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8"
   },
   {
-    "id": 373,
-    "category": "",
+    "id": "cosmostv",
+    "category": "CINE-SERIES",
     "name": "COSMOS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nV7JQSYC/COSMOS-TV.jpg",
     "streamUrl": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
   },
   {
-    "id": 374,
-    "category": "",
+    "id": "cine",
+    "category": "CINE-SERIES",
     "name": "+CINE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8CfJN6Qs/CINE.jpg",
     "streamUrl": "https://tv.arkeo.cl:19360/8128/8128.m3u8"
   },
   {
-    "id": 375,
-    "category": "",
+    "id": "alcarrizostv",
+    "category": "CINE-SERIES",
     "name": "ALCARRIZOS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/D07ykYGk/ALCARRIZOS-TV.jpg",
     "streamUrl": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8"
   },
   {
-    "id": 376,
-    "category": "",
+    "id": "accion",
+    "category": "CINE-SERIES",
     "name": "SERIES DE ACCION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3NyJksqc/SERIES-DE-ACCION.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 377,
-    "category": "",
-    "name": "CINE DE ORO",
-    "logo": "",
+    "id": "cineoro",
+    "category": "CINE-SERIES",
+    "name": " CINE DE ORO",
+    "logo": "https://i.postimg.cc/KcKMkwtb/CINE-DE-ORO.jpg",
     "streamUrl": "https://jmp2.uk/sam-USBD2700005KL.m3u8"
   },
   {
-    "id": 378,
-    "category": "",
+    "id": "skyflix",
+    "category": "CINE-SERIES",
     "name": "SKYFLIX MOVIES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RVmcdXrd/SKYFLIX-MOVIES.png",
     "streamUrl": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8"
   },
   {
-    "id": 379,
-    "category": "",
+    "id": "paramount",
+    "category": "CINE-SERIES",
     "name": "PARAMOUNT NETWORK",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mrJbthsJ/PARAMOUNT-NETWORK.jpg",
     "streamUrl": "http://185.189.225.150:85/Paramount/index.m3u8"
   },
   {
-    "id": 380,
-    "category": "",
+    "id": "amc",
+    "category": "CINE-SERIES",
     "name": "AMC SPAIN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T3pzCfMr/AMC-PLEX.jpg",
     "streamUrl": "http://vegafibratv.com:8085/AMC/index.m3u8"
   },
   {
-    "id": 381,
-    "category": "",
+    "id": "bomcine",
+    "category": "CINE-SERIES",
     "name": "BOM CINE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qR1Hypp4/BOM-CINE.jpg",
     "streamUrl": "http://185.189.225.150:85/BOM/index.m3u8"
   },
   {
-    "id": 382,
-    "category": "",
+    "id": "nova",
+    "category": "CINE-SERIES",
     "name": "NOVA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/28sR4cNb/NOVA.png",
     "streamUrl": "http://185.189.225.150:85/nova/index.m3u8"
   },
   {
-    "id": 383,
-    "category": "",
+    "id": "neox",
+    "category": "CINE-SERIES",
     "name": "NEOX",
-    "logo": "",
+    "logo": "https://i.postimg.cc/jSyVvHR8/NEOX.png",
     "streamUrl": "http://185.189.225.150:85/neox/index.m3u8"
   },
   {
-    "id": 384,
-    "category": "",
+    "id": "fdftv",
+    "category": "CINE-SERIES",
     "name": "FDF TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/N0t3nKMQ/FDF-TV.png",
     "streamUrl": "http://185.189.225.150:85/fdf/index.m3u8"
   },
   {
-    "id": 385,
-    "category": "",
+    "id": "garavitotv",
+    "category": "CINE-SERIES",
     "name": "GARAVITO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3xhCFB6f/GARAVITO-TV.png",
     "streamUrl": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
   },
   {
-    "id": 386,
-    "category": "",
+    "id": "universal",
+    "category": "CINE-SERIES",
     "name": "UNIVERSAL CRIME",
-    "logo": "",
+    "logo": "https://i.postimg.cc/VvMqZk29/UNIVERSAL-CRIME.jpg",
     "streamUrl": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "id": 387,
-    "category": "",
+    "id": "freebietv",
+    "category": "CINE-SERIES",
     "name": "FREEBIE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vZ8QrBQ4/FREEBIE-TV.jpg",
     "streamUrl": "https://d26pp4b7ojtlyn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FreebieTV/187.m3u8"
   },
   {
-    "id": 388,
-    "category": "",
+    "id": "cineestrella",
+    "category": "CINE-SERIES",
     "name": "CINE ESTRELLA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RZPvXBFX/CINE-ESTRELLA.png",
     "streamUrl": "https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8"
   },
   {
-    "id": 389,
-    "category": "",
+    "id": "digital",
+    "category": "CINE-SERIES",
     "name": "ENFOQUE DIGITAL TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Hs6mf7jW/ENFOQUE-DIGITAL-TV.png",
     "streamUrl": "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8"
   },
   {
-    "id": 390,
-    "category": "",
+    "id": "cinelife",
+    "category": "CINE-SERIES",
     "name": "CINE LIFE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3Rj29BK5/CINE-LIFE.jpg",
     "streamUrl": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
   },
   {
-    "id": 391,
-    "category": "",
+    "id": "JOJCinema.sk",
+    "category": "CINE-SERIES",
+    "name": "JOJ Cinema (720p)",
+    "logo": "https://i.imgur.com/5Auduch.png",
+    "streamUrl": "https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8"
+  },
+  {
+    "id": "cinesony",
+    "category": "CINE-SERIES",
     "name": "CINE SONY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1X5VB1Cw/CINE-SONY.png",
     "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
   },
   {
-    "id": 392,
-    "category": "",
+    "id": "action",
+    "category": "CINE-SERIES",
     "name": "ACTION HOLLYWOOD MOVIES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sfhNhJNW/ACTION-HOLLYWOOD-MOVIES.jpg",
     "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
   },
   {
-    "id": 393,
-    "category": "",
+    "id": "amceast",
+    "category": "CINE-SERIES",
     "name": "AMC EAST",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KvQrkkxL/AMC-1.jpg",
     "streamUrl": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
   },
   {
-    "id": 394,
-    "category": "",
+    "id": "teleseries",
+    "category": "CINE-SERIES",
     "name": "13 TELESERIES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/G2TsFy9D/13-TELESERIES.png",
     "streamUrl": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
   },
   {
-    "id": 395,
-    "category": "",
+    "id": "movie",
+    "category": "CINE-SERIES",
     "name": "MY TIME MOVIE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3R0x7Ywg/MY-TIME-MOVIE.jpg",
     "streamUrl": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 396,
-    "category": "",
+    "id": "bjtjme",
+    "category": "CINE-SERIES",
     "name": "BIGTIME",
-    "logo": "",
+    "logo": "https://i.postimg.cc/q7vfHTLj/channels4-profile.jpg",
     "streamUrl": "https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8"
   },
   {
-    "id": 397,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV LIVE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NfrSdHBc/CIBAE-A-TV.png",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8"
   },
   {
-    "id": 398,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/PxSD1WPs/FREE-TV.png",
     "streamUrl": "https://freetv.stream.olympusatmedia.com/index.m3u8"
   },
   {
-    "id": 399,
-    "category": "",
+    "id": "amc2",
+    "category": "CINE-SERIES",
     "name": "AMC ESPAÑOL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/xTTDNL6p/AMC-2.png",
     "streamUrl": "https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE"
   },
   {
-    "id": 400,
-    "category": "",
+    "id": "amcplex",
+    "category": "CINE-SERIES",
     "name": "AMC PLEX",
-    "logo": "",
+    "logo": "https://i.postimg.cc/T3pzCfMr/AMC-PLEX.jpg",
     "streamUrl": "https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8"
   },
   {
-    "id": 401,
-    "category": "",
+    "id": "solidariatv",
+    "category": "CINE-SERIES",
     "name": "BAYRES TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nzy5pfg3/BAYRES-TV.jpg",
     "streamUrl": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8"
   },
   {
-    "id": 402,
-    "category": "",
+    "id": "mcitv",
+    "category": "CINE-SERIES",
     "name": "MCI TELEVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/HLV8fhfY/MCI-TELEVISION.jpg",
     "streamUrl": "https://video.ejeserver.com/live/mcitelevision.m3u8"
   },
   {
-    "id": 403,
-    "category": "",
+    "id": "classiquetv",
+    "category": "CINE-SERIES",
     "name": "CLASSIQUE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CKXnY4gj/CLASSIQUE-TV.jpg",
     "streamUrl": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
   },
   {
-    "id": 404,
-    "category": "",
+    "id": "dodotv",
+    "category": "CINE-SERIES",
     "name": "DODO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rsXFvYmd/DODO-TV.jpg",
     "streamUrl": "https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?WebM3UCL"
   },
   {
-    "id": 405,
-    "category": "",
+    "id": "cattotv",
+    "category": "CINE-SERIES",
     "name": "CATTO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NFJVQtRf/CATTO-TV.jpg",
     "streamUrl": "https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8"
   },
   {
-    "id": 406,
-    "category": "",
+    "id": "nintv",
+    "category": "CINE-SERIES",
     "name": "NIM TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wxVJfCDv/NIM-TV.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
   },
   {
-    "id": 407,
-    "category": "",
+    "id": "kanadetv",
+    "category": "CINE-SERIES",
     "name": "TELESELVA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rFs3QdLd/TELESELVA.png",
     "streamUrl": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?WebM3UCL"
   },
   {
-    "id": 408,
-    "category": "",
+    "id": "mytimespain",
+    "category": "CINE-SERIES",
     "name": "MY TIME MOVIE NETWORK",
-    "logo": "",
+    "logo": "https://i.postimg.cc/LXS8k0KG/ATRESPLAYER-MULTICINE.jpg",
     "streamUrl": "https://appletree-mytimespain-rakuten.amagi.tv/480p/index.m3u8"
   },
   {
-    "id": 409,
-    "category": "",
+    "id": "mytimespain",
+    "category": "CINE-SERIES",
     "name": "LOVE WINE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MGxC9kH0/LOVE-WINE.jpg",
     "streamUrl": "https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/480p/index.m3u8"
   },
   {
-    "id": 410,
-    "category": "",
+    "id": "retroxtvlive",
+    "category": "CINE-SERIES",
     "name": "RETROXTV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mgqvGcmw/RETROXTV.png",
     "streamUrl": "https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8"
   },
   {
-    "id": 411,
-    "category": "",
+    "id": "tcm",
+    "category": "CINE-SERIES",
     "name": "TCM",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZR6khcVj/TCM.pngg",
     "streamUrl": "http://38.41.8.1:8000/play/a04x"
   },
   {
-    "id": 412,
-    "category": "",
+    "id": "pitaara",
+    "category": "CINE-SERIES",
     "name": "PITAARA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9FY9kvT0/BALLE-BALLE.jpg",
     "streamUrl": "https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
   },
   {
-    "id": 413,
-    "category": "",
+    "id": "tvs-retro",
+    "category": "CINE-SERIES",
     "name": "TVS RETRO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/W3sL5qPh/TVS-RETRO.png",
     "streamUrl": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
   },
   {
-    "id": 414,
-    "category": "",
+    "id": "pelisoeste",
+    "category": "CINE-SERIES",
     "name": "GRJNGO-PELIS DEL OESTE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/TYLSqJWt/GRJNGO-PELIS-DEL-OESTE.jpg",
     "streamUrl": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8"
   },
   {
-    "id": 415,
-    "category": "",
+    "id": "barbetv",
+    "category": "CINE-SERIES",
     "name": "BARVE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/fywdWCQD/BARVE-TV-CANAL-9.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
   },
   {
-    "id": 416,
-    "category": "",
+    "id": "auroramflive",
+    "category": "CINE-SERIES",
     "name": "AURORA MEDIA FILMS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Jz9BHMCT/AURORA-MEDIA-FILMS.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
   },
   {
-    "id": 417,
-    "category": "",
+    "id": "sastv",
+    "category": "CINE-SERIES",
     "name": "SAS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vmFcHh5k/SAS-TV.jpg",
     "streamUrl": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
   },
   {
-    "id": 418,
-    "category": "",
+    "id": "webtvcine",
+    "category": "CINE-SERIES",
     "name": "WEB TV CINE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4NXCZ9KP/WEB-TV-CINE.png",
     "streamUrl": "https://stmv1.srvif.com/tvserie/tvserie/chunklist_w44921992.m3u8"
   },
   {
-    "id": 419,
-    "category": "",
+    "id": "pelimex",
+    "category": "CINE-SERIES",
     "name": "PELIMEX",
-    "logo": "",
+    "logo": "https://i.postimg.cc/K8Yd3hDg/PELIMEX.jpg",
     "streamUrl": "https://telecine-pelimex-1-eu.xiaomi.wurl.tv/4300.m3u8"
   },
   {
-    "id": 420,
-    "category": "",
+    "id": "xtrema",
+    "category": "CINE-SERIES",
     "name": "XTREMA ACTION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Pr6QytNt/XTREMO-CHANNEL.png",
     "streamUrl": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8"
   },
   {
-    "id": 421,
-    "category": "",
+    "id": "megacinetv",
+    "category": "CINE-SERIES",
     "name": "MEGA CINE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/PfCwk3Gd/MEGA-CINE-TV.png",
     "streamUrl": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8"
   },
   {
-    "id": 422,
-    "category": "",
+    "id": "bccdrama",
+    "category": "CINE-SERIES",
     "name": "BCC DRAMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/HL4gWQKJ/BCC-DRAMA.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 423,
-    "category": "",
+    "id": "CineTerror.us",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE TERROR 1",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bJM0zM9b/PLUTO-TV-CINE-TERROR.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 424,
-    "category": "",
+    "id": "CineTerror.us",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE TERROR 2",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bJM0zM9b/PLUTO-TV-CINE-TERROR.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 425,
-    "category": "",
+    "id": "PlutoTVCineClasico.es",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE CLASICO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/4xZ6NpV8/PLUTO-TV-CINE-CLASICO.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 426,
-    "category": "",
+    "id": "plutoaction",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE ACCION 1",
-    "logo": "",
+    "logo": "https://i.postimg.cc/xdBTvpwf/PLUTO-TV-CINE-ACCION.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 427,
-    "category": "",
+    "id": "PlutoTVCineAccion.es",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE ACCION 2",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YCpFwMBZ/PLUTO-TV-CINE-ACCION.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="
   },
   {
-    "id": 428,
-    "category": "",
+    "id": "00s replay",
+    "category": "CINE-SERIES",
     "name": "00s REPLAY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qRcg9Hxk/00s-REPLAY.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be"
   },
   {
-    "id": 429,
-    "category": "",
+    "id": "plutotvindies",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV INDIES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sDSSSZ1S/PLUTO-TV-INDIES.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 430,
-    "category": "",
+    "id": "criminalmind",
+    "category": "CINE-SERIES",
     "name": "CRIMINAL MIND",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gcHVNcz6/CRIMINAL-MIND.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b"
   },
   {
-    "id": 431,
-    "category": "",
+    "id": "bluebloods",
+    "category": "CINE-SERIES",
     "name": "BLUE BLOODS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mr9MMBpk/BLUE-BLOODS.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3b8c645b45d0007a9bb8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe7428fc-4fd0-424f-828f-7d5d5e9ad75c"
   },
   {
-    "id": 432,
-    "category": "",
+    "id": "bahiwacth",
+    "category": "CINE-SERIES",
     "name": "GUARDIANES DE LA BAHIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/k4dSvzLc/GUARDIANES-DE-LA-BAHIA.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce97-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f25ee872-2318-41f5-9217-d8d7a6edc084"
   },
   {
-    "id": 433,
-    "category": "",
+    "id": "walkindead",
+    "category": "CINE-SERIES",
     "name": "THE WALKING DEAD 24/7",
-    "logo": "",
+    "logo": "https://i.postimg.cc/15tH7tQr/THE-WALKING-DEAD.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=223ef689-92ba-46c9-9fc3-aa575c675e5c"
   },
   {
-    "id": 434,
-    "category": "",
+    "id": "plutoestelar",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE ESTELAR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/D0HgnTHV/PLUTO-TV-CINE-ESTELAR.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId="
   },
   {
-    "id": 435,
-    "category": "",
+    "id": "cineretro",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV CINE RETRO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/rmFt8ZPy/PLUTO-TV-CINE-RETRO.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055170-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16087aae-45a5-4664-9dd5-7ba7c4fa78cf"
   },
   {
-    "id": 436,
-    "category": "",
+    "id": "plutocsi",
+    "category": "CINE-SERIES",
     "name": "CSI MIAMI 24/7",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hPRpQnMC/CSI-MIAMI.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506&serverSideAds=false"
   },
   {
-    "id": 437,
-    "category": "",
+    "id": "plutocsi",
+    "category": "CINE-SERIES",
     "name": "CSI NEW YORK 24/7",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wTkctm1v/CSI-NEW-YORK.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f4e11c7533d80008a1d5f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df72-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=619688bf-4e92-4933-ae80-a470b2c6493c&serverSideAds=false"
   },
   {
-    "id": 438,
-    "category": "",
+    "id": "plutocsi",
+    "category": "CINE-SERIES",
     "name": "CSI LAS VEGAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gk48cb7L/CSI-LAS-VEGAS.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424&serverSideAds=false"
   },
   {
-    "id": 439,
-    "category": "",
+    "id": "cinexoxo",
+    "category": "CINE-SERIES",
     "name": "CINE XOXO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Qx81PVy2/CINE-XOXO.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7"
   },
   {
-    "id": 440,
-    "category": "",
+    "id": "pelis",
+    "category": "CINE-SERIES",
     "name": "PELIS Y POPCORM",
-    "logo": "",
+    "logo": "https://i.postimg.cc/x80JWFtv/PELIS-Y-POPCORM.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b"
   },
   {
-    "id": 441,
-    "category": "",
+    "id": "plutoseries",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV SERIES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/g2wXFhqT/PLUTO-SERIES.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5"
   },
   {
-    "id": 442,
-    "category": "",
+    "id": "70cinema",
+    "category": "CINE-SERIES",
     "name": "70 CINEMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/tgKgHmC1/70-CINEMA.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70"
   },
   {
-    "id": 443,
-    "category": "",
+    "id": "80rewind",
+    "category": "CINE-SERIES",
     "name": "80 REWIND",
-    "logo": "",
+    "logo": "https://i.postimg.cc/nrkVBFK7/80-REWIND.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0"
   },
   {
-    "id": 444,
-    "category": "",
+    "id": "blackcinema",
+    "category": "CINE-SERIES",
     "name": "BLACK CINEMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qRYWdbZJ/BLACK-CINEMA.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9"
   },
   {
-    "id": 445,
-    "category": "",
+    "id": "cinejaja",
+    "category": "CINE-SERIES",
     "name": "CINE JAJA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KYq6jPXb/CINE-JAJA.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8"
   },
   {
-    "id": 446,
-    "category": "",
+    "id": "premier",
+    "category": "CINE-SERIES",
     "name": "CINE PREMIERE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/VNdmhV01/CINE-PREMIERE.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec"
   },
   {
-    "id": 447,
-    "category": "",
+    "id": "universal",
+    "category": "CINE-SERIES",
     "name": "UNIVERSAL ACTION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/d1gR9yNt/UNIVERSAL-ACTION.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a"
   },
   {
-    "id": 448,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV ACCION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/y8GC3GFM/FREE-TV-ACCION.jpg",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8"
   },
   {
-    "id": 449,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV DRAMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/GpswFjKH/FREE-TV-DRAMA.jpg",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8"
   },
   {
-    "id": 450,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV ESTELAR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/5tzTY29z/FREETV-ESTELAR.jpg",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8"
   },
   {
-    "id": 451,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV LIVE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Ss7Pd1MN/FREE-TV-LIVE.png",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8"
   },
   {
-    "id": 452,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV TERROR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QxMzgbxh/FREETV-TERROR.jpg",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8"
   },
   {
-    "id": 453,
-    "category": "",
+    "id": "freetv",
+    "category": "CINE-SERIES",
     "name": "FREE TV SUREÑO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ncwP3DC7/FREETV-SURE-O.jpg",
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8"
   },
   {
-    "id": 454,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME ESPAÑOL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ydKXb9JN/RUNTIME-ESPA-OL.jpg",
     "streamUrl": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
   },
   {
-    "id": 455,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME ESPAÑOL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hGVZ4ZMb/RUNTIME-ESPA-OL.jpg",
     "streamUrl": "https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8"
   },
   {
-    "id": 456,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME ACCION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pTxGmQ6N/RUNTIME-ACCION.jpg",
     "streamUrl": "https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8"
   },
   {
-    "id": 457,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME COMEDIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/RFRPK3kW/RUNTIME-COMEDIA.jpg",
     "streamUrl": "https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8"
   },
   {
-    "id": 458,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME THRILLER",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kGYfY0X9/RUNTIME-THRILLER.jpg",
     "streamUrl": "https://run-th-es.otteravision.com/run/th_es/th_es.m3u8"
   },
   {
-    "id": 459,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME CRIMEN",
-    "logo": "",
+    "logo": "https://i.postimg.cc/DwXB5YVk/RUNTIME-CRIMEN.jpg",
     "streamUrl": "https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8"
   },
   {
-    "id": 460,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME ROMANCE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wx42zdgY/RUNTIME-ROMANCE.jpg",
     "streamUrl": "https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8"
   },
   {
-    "id": 461,
-    "category": "",
+    "id": "runtime",
+    "category": "CINE-SERIES",
     "name": "RUNTIME CLASSIC",
-    "logo": "",
+    "logo": "https://i.postimg.cc/xdPGFwt7/RUNTIME-CLASSIC.jpg",
     "streamUrl": "https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8"
   },
   {
-    "id": 462,
-    "category": "",
+    "id": "hechizada",
+    "category": "CINE-SERIES",
     "name": "HECHIZADA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/N0bTx10v/HECHIZADA.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 463,
-    "category": "",
+    "id": "macgiver",
+    "category": "CINE-SERIES",
     "name": "MACGIVER 24/7",
-    "logo": "",
+    "logo": "https://i.postimg.cc/V6VCxmM7/MACGIVER.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 464,
-    "category": "",
+    "id": "bahia",
+    "category": "CINE-SERIES",
     "name": "GUARDIANES DE LA BAHIA 24/7",
-    "logo": "",
+    "logo": "https://i.postimg.cc/x12tx39X/GUARDIANES-DE-LA-BAHIA.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 465,
-    "category": "",
+    "id": "comedia",
+    "category": "CINE-SERIES",
     "name": "CINE COMEDIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QtHb96Jy/CINE-COMEDIA.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 466,
-    "category": "",
+    "id": "drama",
+    "category": "CINE-SERIES",
     "name": "CINE DRAMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/j5mhzz8d/CINE-DRAMA.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 467,
-    "category": "",
+    "id": "romance",
+    "category": "CINE-SERIES",
     "name": "CINE ROMANCE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MKkDHmM9/CINE-ROMANCE.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 468,
-    "category": "",
+    "id": "suspenso",
+    "category": "CINE-SERIES",
     "name": "CINE SUSPENSO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/yNrhHmCX/CINE-SUSPENSO.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 469,
-    "category": "",
+    "id": "adrenalina",
+    "category": "CINE-SERIES",
     "name": "CINE ADRENALINA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SsM9bHrk/CINE-ADRENALINA.png",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 470,
-    "category": "",
+    "id": "clasico",
+    "category": "CINE-SERIES",
     "name": "CINE CLASICO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gkNnQYW3/PLUTO-TV-CINE-CLASICO.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 471,
-    "category": "",
+    "id": "familia",
+    "category": "CINE-SERIES",
     "name": "CINE FAMILIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/V6Q6nvqP/PLUTO-TV-CINE-FAMILIA.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 472,
-    "category": "",
+    "id": "estelar",
+    "category": "CINE-SERIES",
     "name": "CINE ESTELAR",
-    "logo": "",
+    "logo": "https://i.postimg.cc/MTS6X4wW/PLUTO-TV-CINE-ESTELAR.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 473,
-    "category": "",
+    "id": "retro",
+    "category": "CINE-SERIES",
     "name": "SERIES RETRO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/R0r9b8Nc/PLUTO-TV-SERIES-RETRO.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 474,
-    "category": "",
+    "id": "00sreplay",
+    "category": "CINE-SERIES",
     "name": "00s REPLAY",
-    "logo": "",
+    "logo": "https://i.postimg.cc/mrTpDNnv/00-S-REPLAY.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be"
   },
   {
-    "id": 475,
-    "category": "",
+    "id": "plutocomedi",
+    "category": "CINE-SERIES",
     "name": "PLUTO TV COMEDIAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/zXQvjBZS/PLUTO-COMEDIAS.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 476,
-    "category": "",
+    "id": "wwe",
+    "category": "DEPORTES",
     "name": ",WWE SUPERSTAR CENTRAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/05CCnLbw/WWE-SUPERSTAR-CENTRAL.jpg",
     "streamUrl": "https://jmp2.uk/sam-US700005ID.m3u8"
   },
   {
-    "id": 477,
-    "category": "",
+    "id": "mlb",
+    "category": "DEPORTES",
     "name": "MLB",
-    "logo": "",
+    "logo": "https://i.postimg.cc/W4BRKK6h/MLB.pngg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a"
   },
   {
-    "id": 478,
-    "category": "",
+    "id": "teledeportes",
+    "category": "DEPORTES",
     "name": "TELEDEPORTES",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9QGYyG37/TELEDEPORTES.jpg",
     "streamUrl": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
   },
   {
-    "id": 479,
-    "category": "",
+    "id": "fighttv",
+    "category": "DEPORTES",
     "name": "FIGHT TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8P0DtCZV/FIGHT-TV.jpg",
     "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8"
   },
   {
-    "id": 480,
-    "category": "",
+    "id": "garajetv",
+    "category": "DEPORTES",
     "name": "GARAJE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gjR8vXKP/GARAGE-TV.png",
     "streamUrl": "https://stream1.sersat.com/hls/garagetv.m3u8"
   },
   {
-    "id": 481,
-    "category": "",
+    "id": "luchalibre",
+    "category": "DEPORTES",
     "name": "IMPACT WRESTLING",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZYQ0wYXc/IMPACT-WRESTLING.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 482,
-    "category": "",
+    "id": "luchalibre",
+    "category": "DEPORTES",
     "name": "PLUTO TV LUCHA LIBRE AAA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Jn27YKYn/PLUTO-TV-LUCHA-LIBRE-AAA.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId="
   },
   {
-    "id": 483,
-    "category": "",
+    "id": "bellator",
+    "category": "DEPORTES",
     "name": "BELLATOR MMA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/WpBNXf94/BELLATOR-MMA.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803"
   },
   {
-    "id": 484,
-    "category": "",
+    "id": "digital809tv",
+    "category": "MUSICA",
     "name": "DIGITAL809TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Zq8GpxRj/DIGITAL809-TV.png",
     "streamUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
   },
   {
-    "id": 485,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "PORTAL FOXMIX",
-    "logo": "",
+    "logo": "https://i.postimg.cc/856pCdn7/PORTAL-FOXMIX.jpg",
     "streamUrl": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8"
   },
   {
-    "id": 486,
-    "category": "",
+    "id": "alegretv",
+    "category": "MUSICA",
     "name": "ALEGRE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Jz7yHpT7/TV-EXITOS.jpg",
     "streamUrl": "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
   },
   {
-    "id": 487,
-    "category": "",
+    "id": "solmusica",
+    "category": "MUSICA",
     "name": "SOL MUSICA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/W44cdmt2/SOL-MUSICA.jpg",
     "streamUrl": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
   },
   {
-    "id": 488,
-    "category": "",
+    "id": "solmusica",
+    "category": "MUSICA",
     "name": "SOL MUSICA-ESPAÑA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/W44cdmt2/SOL-MUSICA.jpg",
     "streamUrl": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8"
   },
   {
-    "id": 489,
-    "category": "",
+    "id": "activatv",
+    "category": "MUSICA",
     "name": "ACTIVA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FHsBprvp/ACTIVA-TV.jpg",
     "streamUrl": "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
   },
   {
-    "id": 490,
-    "category": "",
+    "id": "cadenaelite",
+    "category": "MUSICA",
     "name": "CADENA ELITE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/gkGSczxp/CADENA-ELITE.png",
     "streamUrl": "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
   },
   {
-    "id": 491,
-    "category": "",
+    "id": "verbenatvlive",
+    "category": "MUSICA",
     "name": "VERBENA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Y00v8LXk/VERBENA-TV.jpg",
     "streamUrl": "https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8"
   },
   {
-    "id": 492,
-    "category": "",
+    "id": "qmusic",
+    "category": "MUSICA",
     "name": "QMUSIC",
-    "logo": "",
+    "logo": "https://i.postimg.cc/qM9NXR2V/QMUSIC.png",
     "streamUrl": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8"
   },
   {
-    "id": 493,
-    "category": "",
+    "id": "powertv",
+    "category": "MUSICA",
     "name": "POWER TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/63mWWj0J/POWER-TV.jpg",
     "streamUrl": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
   },
   {
-    "id": 494,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "CALIFORNIA MUSIC CHANNEL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/CKvB84NJ/CALIFORNIA-MUSIC-CHANNEL.jpg",
     "streamUrl": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels"
   },
   {
-    "id": 495,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "MUZZIK CAFE Y CLUB",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZnNC1zhD/MUZZIK-CAFE-Y-CLUB.jpg",
     "streamUrl": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
   },
   {
-    "id": 496,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "DITTY TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/X7wrLWLr/DITTY-TV.jpg",
     "streamUrl": "https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8"
   },
   {
-    "id": 497,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "SPIRIT TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZKhRCgm4/SPIRIT-TV.png",
     "streamUrl": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
   },
   {
-    "id": 498,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "LA MEGA MUNDIAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/pLsXcLFL/LA-MEGA-MUNDIAL.jpg",
     "streamUrl": "https://server40.servistreaming.com:3477/stream/play.m3u8"
   },
   {
-    "id": 499,
-    "category": "",
+    "id": "beanitv",
+    "category": "MUSICA",
     "name": "LIRA TV INTERNACIONAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8CXJYKQX/LIRA-TV.jpg",
     "streamUrl": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
   },
   {
-    "id": 500,
-    "category": "",
+    "id": "002radiotv",
+    "category": "MUSICA",
     "name": "002 RADIO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/439T7LPn/002-RADIO-TV.jpg",
     "streamUrl": "https://cdn.002radio.com:3909/live/radio002live.m3u8"
   },
   {
-    "id": 501,
-    "category": "",
+    "id": "music",
+    "category": "MUSICA",
     "name": "AMC MUSIC",
-    "logo": "",
+    "logo": "https://i.postimg.cc/8Cxbp2D0/AMC-MUSIC.jpg",
     "streamUrl": "https://amchls.wns.live/hls/stream.m3u8"
   },
   {
-    "id": 502,
-    "category": "",
+    "id": "88stereo",
+    "category": "MUSICA",
     "name": "88 STEREO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/y6vzmb4F/88-STEREO.png",
     "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
   },
   {
-    "id": 503,
-    "category": "",
+    "id": "tumusicahd",
+    "category": "MUSICA",
     "name": "TU MUSICA HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/BQ9XSLHt/TU-MUSICA-HD.png",
     "streamUrl": "https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8"
   },
   {
-    "id": 504,
-    "category": "",
+    "id": "rock",
+    "category": "MUSICA",
     "name": "NOW ROCK",
-    "logo": "",
+    "logo": "https://i.postimg.cc/B6nVkBJy/NOW-ROCK.jpg",
     "streamUrl": "https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8"
   },
   {
-    "id": 505,
-    "category": "",
+    "id": "now80",
+    "category": "MUSICA",
     "name": "NOW 80",
-    "logo": "",
+    "logo": "https://i.postimg.cc/HWKhvMRZ/NOW-80.jpg",
     "streamUrl": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8"
   },
   {
-    "id": 506,
-    "category": "",
+    "id": "now70",
+    "category": "MUSICA",
     "name": "NOW 70",
-    "logo": "",
+    "logo": "https://i.postimg.cc/VLCHx6cY/NOW-70.jpg",
     "streamUrl": "https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8"
   },
   {
-    "id": 507,
-    "category": "",
+    "id": "telemundopr",
+    "category": "MUSICA",
     "name": "BALLE BALLE TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/9FY9kvT0/BALLE-BALLE.jpg",
     "streamUrl": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8"
   },
   {
-    "id": 508,
-    "category": "",
+    "id": "TuMusicaHD.do",
+    "category": "MUSICA",
     "name": "TELERITMO SD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bvDWL0My/TELERITMO.jpg",
     "streamUrl": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8"
   },
   {
-    "id": 509,
-    "category": "",
+    "id": "TuMusicaHD.do",
+    "category": "MUSICA",
     "name": "RETRO MUSIC HD",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wBCPry8h/RETRO-MUSIC-HD.jpg",
     "streamUrl": "http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8"
   },
   {
-    "id": 510,
-    "category": "",
+    "id": "TuMusicaHD.do",
+    "category": "MUSICA",
     "name": "MTV CLIPES 1",
-    "logo": "",
+    "logo": "https://i.postimg.cc/LXFCTcLD/MTV-CLIPES-1.jpg",
     "streamUrl": "http://rtmp.one.by:1200"
   },
   {
-    "id": 511,
-    "category": "",
+    "id": "musica",
+    "category": "MUSICA",
     "name": "PJ DIGITAL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Bb4HW2GF/PJ-DIGITAL.png",
     "streamUrl": "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
   },
   {
-    "id": 512,
-    "category": "",
+    "id": "chammetv",
+    "category": "MUSICA",
     "name": "CHAMAMÉ TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/jSmfxpbt/CHAMAM-TV.png",
     "streamUrl": "https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8"
   },
   {
-    "id": 513,
-    "category": "",
+    "id": "xtremamusic",
+    "category": "MUSICA",
     "name": "XTREMA MUSIC",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vmnVc0Y9/XTREMA-MUSIC.jpg",
     "streamUrl": "https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/playlist.m3u8"
   },
   {
-    "id": 514,
-    "category": "",
+    "id": "visionmusica",
+    "category": "MUSICA",
     "name": "VISION MUSICA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/QNS2WfwR/VISION-MUSICA.jpg",
     "streamUrl": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8"
   },
   {
-    "id": 515,
-    "category": "",
+    "id": "mega",
+    "category": "MUSICA",
     "name": "MEGA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/XY4qXxPG/MEGA.png",
     "streamUrl": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
   },
   {
-    "id": 516,
-    "category": "",
+    "id": "vevoretro",
+    "category": "MUSICA",
     "name": "VEVO RETRO ROCK",
-    "logo": "",
+    "logo": "https://i.postimg.cc/y8k01FFF/VEVO-RETRO-ROCK.png",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c"
   },
   {
-    "id": 517,
-    "category": "",
+    "id": "plutotv",
+    "category": "MUSICA",
     "name": "PLUTO MTV LATINO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/hPmDsB5m/PLUTO-MTV-LATINO.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId="
   },
   {
-    "id": 518,
-    "category": "",
+    "id": "puranoticias",
+    "category": "NOTICIAS",
     "name": "PURA NOTICIA TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/2jFcK1GB/PURA-NOTICIA-TV.jpg",
     "streamUrl": "https://pnt.janusmedia.tv/hls/pnt.m3u8"
   },
   {
-    "id": 519,
-    "category": "",
+    "id": "uniontv",
+    "category": "NOTICIAS",
     "name": "UNION TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/d0v8HF9r/UNION-TV.png",
     "streamUrl": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
   },
   {
-    "id": 520,
-    "category": "",
+    "id": "negociostvs",
+    "category": "NOTICIAS",
     "name": "NEGOCIOS TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/G2jfKZZv/NEGOCIOS.jpg",
     "streamUrl": "https://jmp2.uk/sam-ESBD3400001AA.m3u8"
   },
   {
-    "id": 521,
-    "category": "",
+    "id": "rnn-noticias",
+    "category": "NOTICIAS",
     "name": "RNN-NOTICIAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1zFxPVw5/RNN-NOTICIAS.jpg",
     "streamUrl": "https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8"
   },
   {
-    "id": 522,
-    "category": "",
+    "id": "rdn",
+    "category": "NOTICIAS",
     "name": "RDN TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YC25YQYc/RDN-TV.jpg",
     "streamUrl": "https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8"
   },
   {
-    "id": 523,
-    "category": "",
+    "id": "noticias-16",
+    "category": "DOMINICANOS",
     "name": "NOTICIAS 16",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Kjk8y8GP/NOTICIAS-16.png",
     "streamUrl": "https://cdn.essastream.com:3457/live/noticiasn16live.m3u8"
   },
   {
-    "id": 524,
-    "category": "",
+    "id": "latinaperu",
+    "category": "NOTICIAS",
     "name": "LATINA PERU NOTCIAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/d1ybhYZZ/LATINA-PERU-NOTCIAS.jpg",
     "streamUrl": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8"
   },
   {
-    "id": 525,
-    "category": "",
+    "id": "torrevision",
+    "category": "NOTICIAS",
     "name": "TORREVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/vT8h3Dsv/TORREVISION.png",
     "streamUrl": "https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8"
   },
   {
-    "id": 526,
-    "category": "",
-    "name": "24h",
-    "logo": "",
+    "id": "24h",
+    "category": "NOTICIAS",
+    "name": " 24h",
+    "logo": "https://i.postimg.cc/y6jqyZH2/24H.jpg",
     "streamUrl": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
   },
   {
-    "id": 527,
-    "category": "",
+    "id": "elpais",
+    "category": "NOTICIAS",
     "name": "EL PAIS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wxG2zqc7/EL-PAIS.jpg",
     "streamUrl": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8"
   },
   {
-    "id": 528,
-    "category": "",
+    "id": "estrellamedia",
+    "category": "NOTICIAS",
     "name": "ESTRELLA NEWS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/NGdGbMqC/ESTRELLA-NEWS.jpg",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8"
   },
   {
-    "id": 529,
-    "category": "",
+    "id": "adn40",
+    "category": "NOTICIAS",
     "name": "ADN 40",
-    "logo": "",
+    "logo": "https://i.postimg.cc/TwFxMydT/ADN-40.jpg",
     "streamUrl": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
   },
   {
-    "id": 530,
-    "category": "",
+    "id": "dwespañol",
+    "category": "NOTICIAS",
     "name": "DW EN ESPAÑOL",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wTvwsFCX/DW-EN-ESPA-O.png",
     "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
   },
   {
-    "id": 531,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOTICIAS",
     "name": "TELEMUNDO NOTICIAS TEXAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kGSnVBpb/TELEMUNDO-NOTICIAS-TEXAS.png",
     "streamUrl": "https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 532,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOTICIAS",
     "name": "TELEMUNDO NOTICIAS AHORA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FHs28YVV/TELEMUNDO-NOTICIAS-AHORA.jpg",
     "streamUrl": "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "id": 533,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOTICIAS",
     "name": "TELEMUNDO NOTICIAS CALIFORNIA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/SKnHQH5X/TELEMUNDO-NOTICIAS-CALIFORNIA.png",
     "streamUrl": "https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 534,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOTICIAS",
     "name": "TELEMUNDO NOTICIAS FLORIDA",
-    "logo": "",
+    "logo": "https://i.postimg.cc/XJFhddn4/TELEMUNDO-NOTICIAS-FLORIDA.png",
     "streamUrl": "https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 535,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOTICIAS",
     "name": "TELEMUNDO NOTICIAS NORESTE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/KcPwYP95/TELEMUNDO-NOTICIAS-NORESTE.png",
     "streamUrl": "https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8"
   },
   {
-    "id": 536,
-    "category": "",
+    "id": "RTenEspanol.ru",
+    "category": "NOTICIAS",
+    "name": "RT en Español (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
+    "streamUrl": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8"
+  },
+  {
+    "id": "t-vinet",
+    "category": "NOTICIAS",
     "name": "T-VINET",
-    "logo": "",
+    "logo": "https://i.postimg.cc/15JHKZBb/T-VINET.jpg",
     "streamUrl": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
   },
   {
-    "id": 537,
-    "category": "",
+    "id": "infotv",
+    "category": "NOTICIAS",
     "name": "NORTE INF.TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/t4MrTxc6/NORTE-INF-TV.jpg",
     "streamUrl": "https://videohd.live:19360/8076/8076.m3u8"
   },
   {
-    "id": 538,
-    "category": "",
+    "id": "noticiaspe",
+    "category": "NOTICIAS",
     "name": "RN NOTICIAS PE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/3RttWcN1/RN-NOTICIAS-PE.jpg",
     "streamUrl": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
   },
   {
-    "id": 539,
-    "category": "",
+    "id": "tvperu",
+    "category": "NOTICIAS",
     "name": "TV PERU NOTICIAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/bwLgWShW/TV-PERU-NOTICIAS.jpg",
     "streamUrl": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
   },
   {
-    "id": 540,
-    "category": "",
+    "id": "euronews",
+    "category": "NOTICIAS",
     "name": "EURONEWS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/tTbfhXmX/EURONEWS.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0d21e0b-3cc9-4c67-81b6-e33e50a7d8888"
   },
   {
-    "id": 541,
-    "category": "",
+    "id": "mileniotv",
+    "category": "NOTICIAS",
     "name": "MILENIO TV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/05L0B8sx/MILENIO-TV.png",
     "streamUrl": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY"
   },
   {
-    "id": 542,
-    "category": "",
+    "id": "novelasmx",
+    "category": "NOVELAS",
     "name": "NOVELAS MEXICANAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Cx074S4k/NOVELAS-MEXICANAS.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 543,
-    "category": "",
+    "id": "novelasco",
+    "category": "NOVELAS",
     "name": "NOVELAS COLOMBIANAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/YqKzpMZZ/NOVELAS-COLOMBIANAS.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 544,
-    "category": "",
+    "id": "novelasve",
+    "category": "NOVELAS",
     "name": "NOVELAS VENEZOLANAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/kghVgyDG/NOVELAS-VENEZOLANAS.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 545,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOVELAS",
     "name": "TELEMUNDO ROMANCE",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wBbH0XKN/TELEMUNDO-ROMANCE.jpg",
     "streamUrl": "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "id": 546,
-    "category": "",
+    "id": "telemundo",
+    "category": "NOVELAS",
     "name": "TELEMUNDO ACCION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/0Nr1Mz6y/TELEMUNDO-ACCION.png",
     "streamUrl": "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "id": 547,
-    "category": "",
-    "name": "RCN MAS",
-    "logo": "",
+    "id": "rcn",
+    "category": "NOVELAS",
+    "name": " RCN MAS",
+    "logo": "https://i.postimg.cc/N0tsjqgc/RCN-MAS.png",
     "streamUrl": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8"
   },
   {
-    "id": 548,
-    "category": "",
+    "id": "sonynovelas",
+    "category": "NOVELAS",
     "name": "SONY NOVELAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/G3DHwNXt/SONY-NOVELAS.jpg",
     "streamUrl": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
   },
   {
-    "id": 549,
-    "category": "",
+    "id": "novelastv",
+    "category": "NOVELAS",
     "name": "NOVELASTV",
-    "logo": "",
+    "logo": "https://i.postimg.cc/GpYgBpGm/NOVELASTV.jpg",
     "streamUrl": "https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8"
   },
   {
-    "id": 550,
-    "category": "",
+    "id": "somosnovelas",
+    "category": "NOVELAS",
     "name": "SOMOS NOVELAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/Qt8zR3KN/SOMOS-NOVELAS.jpg",
     "streamUrl": "https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8"
   },
   {
-    "id": 551,
-    "category": "",
+    "id": "coreanos",
+    "category": "NOVELAS",
     "name": "DRAMAS COREANOS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/sX92gPnf/DRAMAS-COREANOS.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 552,
-    "category": "",
+    "id": "casocerrado",
+    "category": "NOVELAS",
     "name": "CASO CERRADO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/wMwSGbWN/CASO-CERRADO.jpg",
     "streamUrl": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d"
   },
   {
-    "id": 553,
-    "category": "",
+    "id": "novelas",
+    "category": "NOVELAS",
     "name": "PLUTO TELEMUNDO NOVELAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/L5LnG33k/PLUTO-TELEMUNDO-NOVELAS.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 554,
-    "category": "",
+    "id": "novelas",
+    "category": "NOVELAS",
     "name": "PLUTO TV NOVELAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/1RfML0rw/PLUTO-NOVELAS.jpg",
     "streamUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
   },
   {
-    "id": 555,
-    "category": "",
+    "id": "sintetas",
+    "category": "NOVELAS",
     "name": "SIN TETAS NO HAY PARAISO",
-    "logo": "",
+    "logo": "https://i.postimg.cc/FFGrsDB4/SIN-TETAS-NO-HAY-PARAISO.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 556,
-    "category": "",
+    "id": "latinas",
+    "category": "NOVELAS",
     "name": "SERIES LATINAS",
-    "logo": "",
+    "logo": "https://i.postimg.cc/ZqFksqkS/SERIES-LATINAS.jpg",
     "streamUrl": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus"
   },
   {
-    "id": 557,
-    "category": "",
+    "id": "mariavision",
+    "category": "NOVELAS",
     "name": "MARIAVISION",
-    "logo": "",
+    "logo": "https://i.postimg.cc/G2HWLx8c/MARIAVISION.png",
     "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0"
   }
 ]
