@@ -1295,6 +1295,13 @@
     "streamUrl": "http://45.173.198.59:8080/hls/nginx3.m3u8"
   },
   {
+    "id": "mundotv",
+    "category": "DOMINICANOS",
+    "name": "MUND2 TV",
+    "logo": "https://i.postimg.cc/LsbVR744/MUND2-TV.jpg",
+    "streamUrl": "https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8"
+  },
+  {
     "id": "lavozdemaria",
     "category": "DOMINICANOS",
     "name": "LA VOZ DE MARIA",
@@ -1387,7 +1394,7 @@
   },
   {
     "id": "digital809tv",
-    "category": "MUSICA",
+    "category": "DOMINICANOS",
     "name": "DIGITAL809TV",
     "logo": "https://i.postimg.cc/Zq8GpxRj/DIGITAL809-TV.png",
     "streamUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
@@ -1436,14 +1443,14 @@
   },
   {
     "id": "tvexitos",
-    "category": "MUSICA",
+    "category": "DOMINICANOS",
     "name": "TV EXITOS",
     "logo": "https://i.postimg.cc/Jz7yHpT7/TV-EXITOS.jpg",
     "streamUrl": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8"
   },
   {
     "id": "alegretv",
-    "category": "MUSICA",
+    "category": "DOMINICANOS",
     "name": "ALEGRE TV",
     "logo": "https://i.postimg.cc/26W9PTcM/ALEGRE-TV.png",
     "streamUrl": "https://streamunoapp.com:3149/live/alegretvlive.m3u8"
