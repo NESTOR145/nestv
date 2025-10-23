@@ -2986,7 +2986,7 @@
     "category": "MUSICA",
     "name": "MUND2 TV TV ",
     "streamUrl": "https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/Wb6rzKFr/MUND2-TV.jpg"
   },
   {
     "id": "masusica",
@@ -3000,7 +3000,7 @@
     "category": "MUSICA",
     "name": "DIGITAL809TV",
     "streamUrl": "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/Zq8GpxRj/DIGITAL809-TV.png"
   },
   {
     "id": "music",
@@ -3210,7 +3210,7 @@
     "category": "MUSICA",
     "name": "PORTAL FOXMIX",
     "streamUrl": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/856pCdn7/PORTAL-FOXMIX.jpg"
   },
   {
     "id": "RTenEspanol.ru",
@@ -3224,7 +3224,7 @@
     "category": "DOMINICANOS",
     "name": "CDN ",
     "streamUrl": "http://154.88.160.2:80/CDN/index.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/JzbcL1tC/CDN-37.png"
   },
   {
     "id": "puranoticias",
@@ -3245,21 +3245,21 @@
     "category": "NOTICIAS",
     "name": "RNN-NOTICIAS",
     "streamUrl": "https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/playlist.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/1zFxPVw5/RNN-NOTICIAS.jpg"
   },
   {
     "id": "rdn",
     "category": "NOTICIAS",
     "name": "RDN TV",
     "streamUrl": "https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/YC25YQYc/RDN-TV.jpg"
   },
   {
     "id": "noticias-16",
     "category": "DOMINICANOS",
     "name": "NOTICIAS 16",
     "streamUrl": "https://cdn.essastream.com:3457/live/noticiasn16live.m3u8",
-    "logo": ""
+    "logo": "https://i.postimg.cc/Kjk8y8GP/NOTICIAS-16.png"
   },
   {
     "id": "latinaperu",
