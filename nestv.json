@@ -1554,6 +1554,20 @@
     "logo": "https://i.postimg.cc/7YZphW0R/EN-TELEVISION.png"
   },
   {
+    "id": "teleuniverso",
+    "category": "DOMINICANOS",
+    "name": "TELEUNIVERSO",
+    "streamUrl": "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8",
+    "logo": "https://i.postimg.cc/zBYsfDFw/TELEUNIVERSO.png"
+  },
+   {
+    "id": "valle",
+    "category": "DOMINICANOS",
+    "name": "VALLE NUEVO TV",
+    "streamUrl": "https://media.streambrothers.com:1936/8262/8262/playlist.m3u8",
+    "logo": "https://i.postimg.cc/wMdzrJhc/VALLE-NUEVO-TV.jpg"
+  },
+  {
     "id": "hilandofinotvlive",
     "category": "DOMINICANOS",
     "name": "HILANDO FINO TV",
