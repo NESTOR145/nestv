@@ -1127,11 +1127,11 @@
     "logo": "https://i.postimg.cc/Wb6rzKFr/MUND2-TV.jpg"
   },
   {
-    "id": "digital15",
+    "id": "telenord",
     "category": "DOMINICANOS",
-    "name": "DIGITAL 15",
-    "streamUrl": "http://181.188.216.5:18000/play/a0aw/index.m3u8",
-    "logo": "https://i.postimg.cc/rpRs8XyN/DIGITAL-15.jpg"
+    "name": "TELENORD-CANAL 8",
+    "streamUrl": "https://rdn.essastream.com:3170/live/telenord8live.m3u8",
+    "logo": "https://i.postimg.cc/66DkpFDc/TELENORD-CANAL-08.png"
   },
   {
     "id": "cdndeportes",
@@ -1141,18 +1141,25 @@
     "logo": "https://i.postimg.cc/qqbHm7md/CDN-DEPORTES.jpg"
   },
   {
-    "id": "cdn",
+    "id": "telenord10",
     "category": "DOMINICANOS",
-    "name": "CDN ",
-    "streamUrl": "http://154.88.160.2:80/CDN/index.m3u8",
-    "logo": "https://i.postimg.cc/JzbcL1tC/CDN-37.png"
+    "name": "TELENORD CANAL 10",
+    "streamUrl": "https://rdn.essastream.com:3676/live/telenord10live.m3u8",
+    "logo": "https://i.postimg.cc/FzYCg7mJ/TELENORD.jpg"
   },
   {
-    "id": "cdn",
+    "id": "agenda",
     "category": "DOMINICANOS",
-    "name": "LUNA TV CANAL 53",
-    "streamUrl": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
-    "logo": "https://i.postimg.cc/5Nz8BxBQ/LUNA-TV.jpg"
+    "name": "AGENDA 56",
+    "streamUrl": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8",
+    "logo": "https://i.postimg.cc/RZqS1rxL/AGENDA-56.png"
+  },
+   {
+    "id": "soldaditos",
+    "category": "DOMINICANOS",
+    "name": "SOLDADITOS DE JESUS TV",
+    "streamUrl": "https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8",
+    "logo": "https://i.postimg.cc/NFkt9vh1/SOLDADITOS-DE-JESUS-TV.png"
   },
   {
     "id": "coral39",
@@ -2252,6 +2259,13 @@
     "name": "ZOO MOO AUSTRALIA",
     "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
     "logo": "https://i.postimg.cc/K8bVC72Z/ZOO-MOO-AUSTRALIA.jpg"
+  },
+   {
+    "id": "soldaditos",
+    "category": "DOMINICANOS",
+    "name": "SOLDADITOS DE JESUS TV",
+    "streamUrl": "https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8",
+    "logo": "https://i.postimg.cc/NFkt9vh1/SOLDADITOS-DE-JESUS-TV.png"
   },
   {
     "id": "wordingtv",
