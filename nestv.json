@@ -1211,13 +1211,6 @@
     "logo": "https://i.postimg.cc/PJwTRVyK/PERAVIA-VISION.jpg"
   },
   {
-    "id": "telecentro",
-    "category": "DOMINICANOS",
-    "name": "TELECENTRO",
-    "streamUrl": "https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8",
-    "logo": "https://i.postimg.cc/5y3TvT0H/TELECENTRO.png"
-  },
-  {
     "id": "chinolatv",
     "category": "DOMINICANOS",
     "name": " CHINOLA TV",
@@ -1776,13 +1769,6 @@
     "name": "LA RUTA TV",
     "streamUrl": "https://streamunoapp.com:3983/live/larutatvlive.m3u8",
     "logo": "https://i.postimg.cc/SQ3b0nBC/LA-RUTA-TV.jpg"
-  },
-  {
-    "id": "chinolatv",
-    "category": "DOMINICANOS",
-    "name": " CHINOLA TV",
-    "streamUrl": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-    "logo": ""
   },
   {
     "id": "pitucotv",
